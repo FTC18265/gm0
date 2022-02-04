@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:2
+msgid "Connectors and Wires"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:4
+msgid ""
+"There are many types of connectors for use in FTC. Here are the most "
+"common connectors you will find on an FTC robot."
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:6
+msgid "Powerpoles"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:12
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:21
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:53
+msgid "Used for module power"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:13
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:29
+msgid "Used for motor power"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:14
+msgid "See :term:`Anderson PowerPole`"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:15
+msgid "XT30"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:22
+msgid "See :term:`XT30`"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:23
+msgid "JST-VH"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:30
+msgid "See :term:`JST-VH`"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:31
+msgid "Dupont 0.1”"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:37
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:44
+msgid "Used for sensors"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:38
+msgid "Used for servo wires"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:44
+msgid "JST-PH and JST-XH"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:45
+msgid "See :term:`JST-PH`"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:54
+msgid "Tamiya"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/connectors-and-wires.rst:51
+msgid ""
+"Do not use these connectors! The metal connectors are fragile and will "
+"lead to random disconnects."
+msgstr ""
+

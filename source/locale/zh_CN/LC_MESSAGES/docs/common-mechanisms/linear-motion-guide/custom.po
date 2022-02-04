@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/custom.rst:4
+msgid "Custom Options"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/custom.rst:6
+msgid ""
+"Some teams have opted to build custom solutions for linear motion. Many "
+"of these teams borrow concepts from FRC\\ |reg| teams, modeling their "
+"elevators off of the tall systems found on the larger robots. There’s a "
+"reason that many competitive FRC\\ |reg| teams build the same type of "
+"elevator - at their scale, the box tube elevator has proven to be the "
+"most efficient way to get game pieces off the ground at blisteringly fast"
+" speeds."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/custom.rst:8
+msgid ""
+"When built correctly, an elevator of this type can withstand hundreds of "
+"pounds of load on any axis while barely weighing anything. However, "
+"existing off-the-shelf options already fill the linear motion needs of "
+"most FTC teams."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/custom.rst:10
+msgid ""
+"Custom extension systems also require tons of work in CAD, hours upon "
+"hours of manufacturing time, and may need multiple iterations before they"
+" work correctly. Due to their complexity and how challenging they are to "
+"design, less experienced teams may encounter significant challenges."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/custom.rst:12
+msgid ""
+"Lightweight drawer slides (MiSUMI aluminum and Long Robotics Slides) can "
+"offer similar performance at a fraction of the complexity."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/custom.rst:17
+msgid "7236 Recharged Green, Rover Ruckus, custom box tube linear elevator"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/custom.rst:22
+msgid ""
+"13075 Coram Deo Academy Robotics, Rover Ruckus, custom 8020 chain driven "
+"hang"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/custom.rst:30
+msgid ""
+"7172 Technical Difficulties, Rover Ruckus, fishing pole extension using "
+"gear rack"
+msgstr ""
+

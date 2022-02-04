@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/awards/index.rst:4
+msgid "Awards"
+msgstr ""
+
+#: ../../source/docs/awards/index.rst:6
+msgid ""
+"This is the part of |gm0| that discusses awards. Awards exist in parallel"
+" to the robot game and serves as an alternate way to advance. While the "
+"majority of |gm0| talks about how to make decisions about creating your "
+"robot, the notebook you write is actually showing how you made those "
+"decisions."
+msgstr ""
+
+#: ../../source/docs/awards/index.rst:8
+msgid ""
+"**It only benefits you to go for awards. You can't win awards without "
+"writing a notebook, and in certain states the only way to advance is "
+"awards and in others it can make it significantly easier to advance.** "
+"Therefore, these are the topics that will be covered in this section of "
+"|gm0|."
+msgstr ""
+
+#: ../../source/docs/awards/index.rst:10
+msgid ""
+"Judging and awards are extremely subjective and some rules change a bit "
+"from state to state. What works in one region may not in other regions. "
+"So contact your judges about specifics of some things; for example some "
+"competitions allow you to turn a custom control award sheet, others only "
+"accept the one listed by *FIRST*\\ |reg|. The writers of this part of "
+"|gm0| have extensive experience with awards and have even been winners "
+"and finalists for the Inspire Award at the World Championships."
+msgstr ""
+
+#: ../../source/docs/awards/index.rst:12
+msgid ""
+"For most awards, teams have a 5 minute presentation at the beginning of "
+"the day followed by some Q&A time and possibly pit judging later on (read"
+" the section on the judging process for more detail). There are 7 awards "
+"for FTC teams (excluding awards that cannot advance a team)."
+msgstr ""
+
+#: ../../source/docs/awards/index.rst:14
+msgid ""
+"For winning every award, the Engineering Notebook is a key reference and "
+"is quintessential, so make sure that your team focuses on the Engineering"
+" Notebook."
+msgstr ""
+
+#: ../../source/docs/awards/index.rst:16
+#, python-format
+msgid ""
+"Always remember that regardless of how well you feel you did, awards have"
+" a level of subjectivity of the judges, so there is no way to 100% "
+"control how your team does for awards."
+msgstr ""
+
+#: ../../source/docs/awards/index.rst:18
+msgid ""
+"Overall, awards are one of the core parts of the *FIRST*\\ |reg| Tech "
+"Challenge competition. They recognize teams at the end of every "
+"competition (except league meets) as well as determine many of the teams "
+"that advance."
+msgstr ""
+

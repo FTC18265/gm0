@@ -1,0 +1,323 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:2
+msgid "REV Robotics"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:4
+msgid ""
+"The REV kit is an infinite-pitch, :term:`extrusion <Extrusion>` based "
+"building system which uses the metric system and M3 hardware."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:7
+msgid "Special Considerations"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:9
+msgid ""
+"The REV ecosystem is based upon 15x15mm aluminum :term:`extrusion "
+"<Extrusion>` and is complemented by 45x45mm :term:`channels <Channel>`."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:10
+msgid ""
+"With :term:`extrusion <Extrusion>`, there are no fixed mounting holes, "
+"increasing adjustability and flexibility. For example, tensioning "
+":term:`chain <Chain>` is simple when sliding the mount or bracket "
+"increases tension."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:11
+msgid ""
+"The REV system uses metric dimensions (15 mm extrusion, M3 hardware), "
+"with the exception of #25 roller :term:`chain <Chain>` (FTC standard, "
+"imperial)."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:12
+msgid ""
+"REV has purposefully designed with compatibility in mind, as pattern "
+"adapters ease compatibility issues."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:13
+msgid ""
+"Many REV parts are made of Delrin, a high-wear resistance plastic, which "
+"reduces overall cost. However, REV offers aluminum options for high-load "
+"parts as well."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:14
+msgid ""
+"REV does have a steeper learning curve than :term:`channel <Channel>` "
+"based build systems, owing to the fact that constructing structurally "
+"sound mechanisms requires just a little more thought."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:17
+msgid "Notable components"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:19
+msgid ""
+"REV's bread and butter is the 15x15mm aluminum :term:`extrusion "
+"<Extrusion>`. It accepts M3 hex screws which slide along the grooves."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:20
+msgid ""
+"In addition, REV also offers both 45x45mm :term:`U-channel <Channel>` and"
+" 45x45mm :term:`C-channel <Channel>`, which is stronger than "
+":term:`extrusion <Extrusion>` and provides stiffness and support when "
+"needed."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:21
+msgid ""
+"REV also offers :term:`punch tubing <Punch Tubing>` for teams wanting a "
+"more permanent mounting system while having the flexibility of extrusion."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:22
+msgid ""
+"REV uses 5 mm hex steel :term:`shafts <Shaft>` and a :term:`ball-bearing "
+"<Ball Bearing>` motion support system. The shaft may be cut to length, "
+"which can be very useful for certain use cases. Many vendors have added "
+"compatibility to 5 mm hex :term:`shaft <Shaft>`."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:23
+msgid ""
+"REV offers 3 types of :term:`HD HEX motors <HD Hex Motor>`: spur gear, "
+"planetary, and UltraPlanetary motors. The UltraPlanetary has customizable"
+" planetary ring gear ratios for a very affordable price."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:24
+msgid ""
+"The Core Hex Motor may be useful in certain use cases such as space "
+"constrained mechanisms."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:25
+msgid ""
+"REV also has pattern adapters for other systems built into many parts "
+"such as the aluminum brackets."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:28
+msgid "Verdict"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:30
+msgid ""
+"**The REV kit is good for teams willing to invest the time into an "
+"extrusion building system.** It is the most flexible kit as it is "
+"extrusion based, yet it has the ability to integrate :term:`channel "
+"<Channel>` along with :term:`extrusion <Extrusion>`. REV offers the "
+"option to upgrade parts for those wanting a further investment into the "
+"REV building system."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:32
+msgid ""
+"One advantage to the REV kit is the compatibility of 15x15mm MiSUMI "
+":term:`extrusion <Extrusion>`."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:34
+msgid ""
+"15x15mm REV :term:`extrusion <Extrusion>` isn’t as structurally strong as"
+" MiSUMI for two reasons."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:36
+msgid ""
+"REV extrusion is 6063 aluminum, while MiSUMI :term:`extrusion "
+"<Extrusion>` is made out of A6N01SS-T5 aluminum, a stronger and stiffer "
+"alloy."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:38
+msgid ""
+"The MiSUMI :term:`extrusion <Extrusion>` has a larger surface area, so "
+"there is more area of contact."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:40
+msgid ""
+"MiSUMI offers greater strength at a lower bulk cost. Additionally, MiSUMI"
+" will cut to the half millimeter for free, making it a great option for "
+"teams needing an exact cut. The drawback to MiSUMI is that it is quite a "
+"bit heavier than the REV :term:`extrusion <Extrusion>`. It is encouraged "
+"that teams use MiSUMI for drivetrain and structural support, and REV for "
+"mechanisms that will be under low to medium load."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:42
+msgid ""
+"REV also sells :term:`punch tubing <Punch Tubing>`, which is 15 mm "
+"aluminum square tubing that is compatible with 1/8” rivets. This will "
+"prevent bolts from loosening or sliding around, as :term:`punch tubing "
+"<Punch Tubing>` requires teams to drill through the tubing in order to "
+"fasten parts to it. Another easy option is to use :term:`REV 45x45mm "
+"channel <Channel>`."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:47
+msgid "REV 15x15mm Extrusion"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:52
+msgid "MiSUMI 15x15mm Extrusion Profile"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:55
+msgid "Kit of Parts"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:57
+msgid "`FTC Starter Kit V3 <https://www.revrobotics.com/rev-45-1883/>`_"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:60
+msgid "Advantages"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:62
+msgid ""
+":term:`Extrusion` systems don’t need to worry about tensioning as mounts "
+"are adjustable to your needs."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:64
+msgid ""
+":term:`Extrusion` allows teams to save space as opposed to :term:`channel"
+" <Channel>`, and is lighter than aluminum :term:`channel <Channel>`."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:67
+msgid ""
+":term:`Extrusion` allows infinite positioning options instead of being "
+"locked in to a specific distance - useful for fine-tuning a mechanism."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:68
+msgid "Delrin products are inexpensive yet durable for most use cases."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:69
+msgid ""
+"REV has the option to upgrade to aluminum parts if need be - something "
+"that no other build system offers. (not for all parts)"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:70
+msgid ""
+"5 mm hex is a robust :term:`shaft <Shaft>` and motion system and is "
+"easily adaptable to :term:`UltraHex` 1/2” hex :term:`shaft <Shaft>`. "
+"Other companies have adapting options with 5 mm hex."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:71
+msgid ""
+":term:`Punch Tubing` is a great final iteration option if you are sure "
+"about placement."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:72
+msgid ""
+":term:`Channel` complements extrusion extremely well - having the "
+"adjustability of extrusion and the rigidity of channel makes it a very "
+"solid build system."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:73
+msgid ""
+"Generally, REV products are designed with affordability in mind, and so "
+"the components are of good value for money."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:76
+msgid "Disadvantages"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:78
+msgid ""
+"15x15mm :term:`extrusion <Extrusion>` is not as sturdy as   "
+":term:`channel <Channel>` options under high stress loads."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:79
+msgid ""
+"Steeper learning curve, more time consuming to measure and cut "
+":term:`extrusion <Extrusion>` to length."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:80
+msgid "Requires tools such as a saw and bandsaw."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:81
+msgid ""
+"Requires forethought and planning of :term:`extrusion <Extrusion>` length"
+" and placement."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:82
+msgid ""
+"Parts loosen over time (to remediate: use :term:`punch tubing <Punch "
+"Tubing>`)"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:83
+msgid ""
+"M3 bolts, especially those sold directly by REV, are prone to bending "
+"under higher load (such as when used as an :term:`axle <Shaft>` for a "
+"pulley)"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:84
+msgid ""
+"5 mm hex :term:`shaft <Shaft>` is also prone to bending, especially if "
+"the :term:`shaft <Shaft>` is long."
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:89
+msgid "7161 ViperBots Hydra, Finalist Alliance 1st Pick (Houston), Relic Recovery"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:94
+msgid "9889 Cruise Control, Rover Ruckus"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:99
+msgid "6299 ViperBots QuadX, Velocity Vortex"
+msgstr ""
+
+#: ../../source/docs/hardware-components/kit-and-hardware-guide/rev-robotics.rst:104
+msgid ""
+"11115 Gluten Free used both REV and Actobotics for the 2017-2018 season. "
+"Finalist Alliance Captain (Detroit), Relic Recovery"
+msgstr ""
+

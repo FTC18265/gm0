@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/power-and-electronics/index.rst:2
+msgid "Electronics and Motion Components"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/index.rst:4
+msgid ""
+"This chapter contains information on electric power and electronics of "
+"the robot, including information on wiring, batteries, motors, and "
+"control system."
+msgstr ""
+

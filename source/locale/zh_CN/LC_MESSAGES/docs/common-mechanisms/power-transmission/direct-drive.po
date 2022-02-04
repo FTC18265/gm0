@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:2
+msgid "Direct Drive"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:4
+msgid ""
+"Direct drive refers to powering a mechanical part (most commonly a drive "
+"wheel) directly from the motor axis. Many new and inexperienced teams "
+"will use this method to power their drivetrain as it is the simplest way "
+"to do so. However, there are significant drawbacks to this method."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:6
+msgid ""
+"First, direct drive puts unnecessary load on the drive motor. This is "
+"because shock loads can destroy gearboxes, even :term:`planetary "
+"gearboxes <Planetary Gear>`. Gearboxes are able to withstand load along "
+"the axis of rotation, such as what occurs when the wheel changes "
+"direction. This is a normal situation of load. However, in direct drive, "
+"the gearbox shaft can be exposed to other shock loads outside of the "
+"normal axis. This happens when the wheel comes into contact with another "
+"robot or the field wall, which honestly happens more than you’d think. "
+"This can bend the motor shaft or permanently damage the gearbox."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:8
+msgid ""
+"Second, direct drive limits the :term:`gear ratio <Gear Reduction>` to "
+"whatever ratio the motor gearbox is at. One advantage of all the other "
+"three transmission systems is the ability to gear up or down, based on a "
+"team’s needs. Direct drive cannot do so, and if your drivetrain uses 40:1"
+" gearboxes, there is no way to reduce this ratio to a faster 20:1 "
+"gearbox, for example."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:10
+msgid ""
+"Third, motor shafts are not built to carry large amounts of downward "
+"load. This can lead to bending of the motor shaft, since in direct drive "
+"the shaft is only supported by one side, the gearbox. Generally, a "
+"principle among all engineers is to support the shaft on both sides, "
+"which isn’t possible in this case. This leads to :term:`cantilevering "
+"<Cantilever>` the shaft, something that should be avoided in general. "
+"Thus, with a heavy robot the motor shafts can easily be bent due to a "
+"lack of support. (While typically it is impossible to support a motor "
+"shaft on both ends, it is a common rule of thumb to have dual support on "
+"wheels or other non-motor shafts.)"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:13
+msgid "Advantages"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:15
+msgid "Saves space"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:16
+msgid "Easy to build; most simple form of transmission"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:19
+msgid "Disadvantages"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:21
+msgid "Prone to shock loads which destroy the gearbox"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:22
+msgid "Limited gear ratio to the motor itself"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:23
+msgid "Wears the gearbox of the motor faster"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:24
+msgid "Can bend the motor shaft"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:29
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:43
+msgid "11316, Weapons of Mass Construction"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:31
+msgid "*Outside* Supported Direct Drive (**Preferred Version of Direct Drive**)"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:36
+msgid "Ethan Doak"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:38
+msgid "*Inside* Supported Direct Drive (**Preferred Version of Direct Drive**)"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/power-transmission/direct-drive.rst:45
+msgid "Unsupported Direct Drive (**not recommended**)"
+msgstr ""
+

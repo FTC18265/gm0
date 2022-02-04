@@ -1,0 +1,482 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:4
+msgid "Tank (Skid-Steer) Drivetrains"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:7
+msgid "2 Wheel Drive (Pushbot Drive)"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:9
+msgid "**Recommended only for first drivetrain, not for competitions**"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:11
+msgid ""
+"This rookie drivetrain is considered one of the inferior drivetrains, "
+"though it is usable at low competition levels. This is the introductory "
+"drivetrain type for many rookies, as it is promoted in official guides "
+"published by *FIRST*\\ |reg| (giving it the name pushbot). It often has "
+":term:`direct driven <Direct Drive>` :term:`traction wheels <Traction "
+"wheel>` with unpowered :term:`omni wheels <Omni Wheel>`."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:13
+msgid ""
+"This type of drivetrain has poor turning as the center of turning is at "
+"the back of the robot between the two powered wheels. In comparison to "
+"other drivetrains, it has poor acceleration due to only using two motors."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:15
+msgid ""
+"Even though it may not be an optimal drivetrain, it is still possible to "
+"be competitive as long as the drivetrain is reliable. As a consensus, we "
+"would advise every new team to build the pushbot primarily to learn how "
+"to build with a kit. The pushbot is a good starting point and helps the "
+"team get familiarized with using kit parts, attaching wheels, mounting "
+"motors, etc. However, it is subpar to every other drivetrain in a "
+"competitive context."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:17
+msgid ""
+"While the pushbot is a good first drivetrain for new teams to get "
+"acquainted with the kit, it is recommended that teams move away from this"
+" drivetrain when building their competition robot."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:20
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:57
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:111
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:159
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:196
+msgid "Advantages"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:22
+msgid "Most simple drivetrain to build"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:23
+msgid "No need to worry about powering all four wheels"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:26
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:65
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:119
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:167
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:202
+msgid "Disadvantages"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:28
+msgid "Slower than other options"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:29
+msgid "Underpowered (all other drivetrain options typically use 4 motors)"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:30
+msgid ""
+"Uses the Tetrix MAX motor, which is prone to burning out easily, is "
+"underpowered, and has a fragile gearbox."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:31
+msgid "Lacks agility and maneuverability due to 2 motor turning"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:32
+msgid "Poor acceleration due to 2 motors"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:33
+msgid ""
+"Often :term:`direct driven <Direct Drive>`, which is highly discouraged "
+"for drivetrains"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:39
+msgid "Example pushbot drivetrain included in the starter FTC guide"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:42
+msgid "4 Wheel Drive"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:44
+msgid ""
+"In its most common form, the drivetrain uses the same wheel layout as the"
+" two wheel drivetrain (2 traction wheels in the back, 2 omnis in the "
+"front), but with one notable difference: **all four wheels are powered**."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:46
+msgid ""
+"Some teams will put all four traction wheels or use all four omni wheels."
+" It is not suggested to use all 4 traction wheels due to poor turning "
+"that results in this setup. This is caused by :term:`wheel scrub <Wheel "
+"scrub>`. Using omni wheels for all four wheels will result in incredible "
+"turning, with the robot rotating around its center."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:48
+msgid ""
+"However, this advantage comes with a major loss of traction. For these "
+"reasons, many teams choose to use two traction wheels and two omni wheels"
+" for a balance between quick turning and traction. The primary advantage "
+"of this drivetrain over other tank drivetrains is its ability to easily "
+"move across raised terrain when the bot’s center is raised above the "
+"terrain."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:50
+msgid ""
+"It is suggested that a four wheel drivetrain be close to, or exactly, a "
+"square. Otherwise, one may encounter problems turning."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:52
+msgid ""
+":term:`Weight distribution` is furthermore a large factor that should be "
+"considered: the more weight in the back, the better."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:54
+msgid ""
+"Off-center turning, which may or may not be a drawback, is nearly "
+"ubiquitous among 4 wheel drives. This may not be a problem for teams, but"
+" it is good to be aware of it. Off-center turning can be an advantage, "
+"but be warned that turning will be slightly slower on 4 wheel drives than"
+" their six or eight wheel counterparts."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:59
+msgid "More maneuverable than 2WD"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:60
+msgid "Solid acceleration and traction"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:61
+msgid "Can traverse terrain if the chassis is raised high enough"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:62
+msgid "Good pushing power for defense, yet maneuverable enough to avoid it"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:67
+msgid "Can tip more easily than 6WD/8WD with a high center of mass"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:68
+msgid "All traction wheel 4WD can have decreased maneuverability"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:69
+msgid ""
+"Weight distribution factors into the turning point and turning radius of "
+"the robot"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:74
+msgid "3736 Serious Business, Rover Ruckus; modified 4WD"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:79
+msgid "7209 Tech Hogs, Relic Recovery"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:87
+msgid "10641 Atomic Gears, Rover Ruckus"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:90
+msgid "6 Wheel Drive (6WD)"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:92
+msgid ""
+"A 6 wheel drivetrain is a common competitive drivetrain in FTC for "
+"multiple reasons: it has fantastic traction, great turning, and by having"
+" 6 wheels, the drivetrain has more contact with the ground, helping with "
+"stability and traction. There are two main types of 6 wheel drivetrains: "
+"ones with **corner omnis** and ones with a **drop center**."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:94
+msgid ""
+"A drop center 6WD is a 6 wheel drive with the center wheel mounted "
+"slightly below the other two wheels. The drop should be anywhere from "
+"more than 1/16” up to 1/4”. However, the recommended drop is around 1/8”."
+" Typically, lighter robots (<25 lbs.) can have less drop, while heavier "
+"robots (>25 lbs.) perform slightly better with more than 1/8” drop."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:96
+msgid ""
+"The purpose of dropping the middle wheel is to ensure that only 4 wheels "
+"are in contact with the ground at all times. This is because turning with"
+" 6 wheels on the ground introduces lots of friction, making it very "
+"difficult to turn quickly. Note that the **required drop may vary "
+"depending on both field condition and weight of the overall robot**."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:98
+msgid ""
+"Turning can drastically degrade due to a difference in material "
+"underneath the field, leading to the robot sinking down further than "
+"usual."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:100
+msgid ""
+"Moreover, **most drop center 6 wheel drives are made using custom "
+"drivetrains** because it is difficult to get the center wheel drop using "
+"a kit based build system (a notable exception being REV-based kit "
+"drivetrains). It is possible to execute a drop center using goBILDA and "
+"Actobotics using pillow blocks, but it is a little bit more awkward. "
+"However, with the new `goBILDA drop-center bearing plate "
+"<https://www.gobilda.com/1616-series-drop-center-bearing-plate-32mm-"
+"pattern-2mm-drop-4-pack/>`_, it is straightforward to make a drop center "
+"drivetrain on goBILDA channel."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:102
+msgid ""
+"6 wheel drives with corner :term:`omni wheels <Omni Wheel>` do not need "
+"to have a center drop. It attempts to solve the issue of turning by "
+"replacing the corner traction wheels with omni wheels, allowing the "
+"drivetrain to achieve better turning, albeit with slightly less traction "
+"than a center-drop. This is very easily buildable in kits, and is a great"
+" all-around drivetrain. Drop center and corner omnis can be combined for "
+"maximum turning reliability, although this comes with side effects like "
+"rocking and reduced traction."
+msgstr ""
+
+msgid "Wheel Tolerances"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:106
+msgid ""
+"Tolerances in the size of the wheel may affect the traction of this "
+"drivetrain - many VEX Robotics Competition teams have built 6WDs like "
+"this only to find that their center traction wheel wasn’t touching the "
+"ground due to variance in size."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:108
+msgid ""
+"We don’t have data on this phenomenon with FTC-class wheels, but it’s "
+"something to be aware of."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:113
+msgid "Great traction and maneuverability"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:114
+msgid "Good acceleration, can have a high top speed"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:115
+msgid "Great stability under all robot weights"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:116
+msgid "Able to play defense"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:121
+msgid ""
+"Drop-center 6WD is tricky to build with :term:`channel <Channel>` based "
+"systems, though this has been partially mitigated with the `goBILDA drop-"
+"center bearing plate <https://www.gobilda.com/1616-series-drop-center-"
+"bearing-plate-32mm-pattern-2mm-drop-4-pack/>`_"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:122
+msgid "Drop-center 6WD is slightly worse at turning, but has more traction"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:123
+msgid "Drop-center 6WD is dependent on field conditions"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:124
+msgid "Corner omni 6WD has less traction"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:125
+msgid "Slow :term:`gear ratios <Gear Reduction>` will make a 6WD feel sluggish"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:130
+msgid ""
+"COTS Andymark Tilerunner Drivetrain with 0.05” center drop. **Not "
+"recommended due to price**."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:135
+msgid "7236 Recharged Green, Rover Ruckus; drop center 6WD"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:140
+msgid "5975 Cybots, Velocity Vortex, drop center and corner omni 6WD"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:145
+msgid "Ethan Doak, goBILDA 6 wheel drive with corner omni wheels"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:148
+msgid "8 Wheel Drive"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:150
+msgid ""
+"An 8 wheel drivetrain is less common than its 6WD counterpart, combining "
+"elements found in both 4 wheel and 6 wheel drivetrains. For example, the "
+"6 wheel drivetrain generally will have a dropped center wheel so that the"
+" robot turns on four wheels instead of six, reducing friction and "
+"increasing turning mobility."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:152
+msgid ""
+"On an 8 wheel drive, the center four wheels are dropped. This means that "
+"when turning, only these middle four wheels are touching the ground. "
+"Thus, the 8 wheel drivetrain has slightly more stability while turning "
+"than a 6 wheel drive, whereas 6 wheel drives can turn more quickly. "
+"Furthermore, since the 8 wheel drive has wheels in the same place as a 4 "
+"wheel drive, it has the stability of a 4 wheel drive."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:154
+msgid ""
+"It is suggested that all eight wheels should be powered, and "
+":term:`planetary <Planetary Gear>` motors should be used over a "
+":term:`spur gear <Spur gearbox>` motor."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:156
+msgid ""
+"Teams also have the option of using doubled omni wheels on the outer four"
+" wheels. Doing so will reduce traction/pushing power and increase "
+"mobility."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:161
+msgid "Combines the stability of 6WD with the agility of 4WD"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:162
+msgid "Even more stable than 6WD"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:163
+msgid "Fantastic traction and acceleration"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:164
+msgid "Great for defense"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:169
+msgid "Takes up more space than 6WD"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:170
+msgid "Powering all 8 wheels can be tricky"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:171
+msgid "Without adequate center drop, turning can be drastically reduced"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:176
+msgid "3846 Maelstrom, Rover Ruckus"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:184
+msgid "13075 Coram Deo Academy Robotics, Rover Ruckus"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:187
+msgid "Tread Drive"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:189
+msgid ""
+"Tread drive is the use of tank treads or wide belts to power movement, "
+"much like a real life tank. Unfortunately, in FTC, it is not a "
+"competitive drivetrain for a number of reasons."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:191
+msgid ""
+"Tread is complex, and has many points of failure. Treads are also very "
+"prone to defense, and a slight hit from another robot is enough to "
+"misalign the treads. :term:`Commercial Off-The-Shelf (COTS) <COTS>` tread"
+" options aren’t great either - TETRIX tracks have a tendency to snap and "
+"derail when used on robot drivetrains, making them not suitable for "
+"competition use."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:193
+msgid ""
+"While it is possible to implement tread drive successfully, such as in "
+"the example below, most inexperienced teams do not have the capability "
+"and know-how to do so. Tread drive has negligible traction improvements "
+"at the cost of maneuverability. There are better options to traverse "
+"terrain, such as a 4WD."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:198
+msgid "Very good at traversing terrain"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:199
+msgid "Fantastic traction and pushing power"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:204
+msgid "Suffers in maneuverability and top speed"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:205
+msgid "Very complex to implement"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:206
+msgid "Treads are prone to breakage and can fall off easily"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/tank.rst:211
+msgid "5975 Cybots, Res-Q"
+msgstr ""
+

@@ -20,6 +20,9 @@ release = re.sub("^v", "", os.popen("git describe").read().strip())
 # The short X.Y version
 version = release
 
+locale_dirs = ['locale/']
+gettext_compact = False
+
 # -- General configuration ---------------------------------------------------
 #
 # Add any Sphinx extension module names here, as strings. They can be

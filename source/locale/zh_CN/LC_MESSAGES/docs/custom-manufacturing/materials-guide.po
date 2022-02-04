@@ -1,0 +1,480 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:4
+msgid "Materials Guide"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:6
+msgid ""
+"In FTC, teams have design freedom in terms of what raw materials to use. "
+"However, there are definitely some important recommendations regarding "
+"material usage."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:8
+msgid ""
+"Common raw materials may be found at your local hardware store. McMaster-"
+"Carr and OnlineMetals are two frequently used online vendors. For more "
+"vendors, check the Appendix."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:10
+msgid "Here are recommended materials listed in order of importance."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:13
+msgid "Recommended Materials"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:15
+msgid "Aluminum channel & angle"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:16
+msgid "Aluminum extrusion (15 and 20 mm)"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:17
+msgid "Polycarbonate (Lexan™)"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:18
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:81
+msgid "ABS"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:19
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:91
+msgid "Delrin"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:20
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:98
+msgid "HDPE"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:23
+msgid "Conditionally Recommended"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:25
+msgid "Aluminum sheet"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:26
+msgid "Aluminum :term:`extrusion <Extrusion>` (1 inch)"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:27
+msgid "Plywood"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:28
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:105
+msgid "Polyvinyl chloride (PVC)"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:31
+msgid "Not Recommended"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:33
+msgid "Medium-density fiberboard (MDF)"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:34
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:59
+msgid "Steel"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:35
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:115
+msgid "Acrylic"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:38
+msgid "Metals"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:41
+msgid "Aluminum"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:43
+msgid ""
+"A high strength, medium-high density material. Suitable for use in nearly"
+" every application; recommended in load-bearing applications."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:44
+msgid ""
+"Aluminum comes in :term:`channel <Channel>`, :term:`extrusion "
+"<Extrusion>`, flat, angle, sheet/plate, and is used in some drawer "
+"slides."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:46
+msgid ""
+"Aluminum :term:`channel <Channel>` is used in many build system kits and "
+"is very popular among teams of various skill levels. :term:`channel "
+"<Channel>` is strong yet relatively lightweight, and offers many mounting"
+" options for teams."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:48
+msgid ""
+"15 mm :term:`extrusion <Extrusion>` is compatible with M3 hardware, "
+"allowing teams to slide in bolts to their desired location. REV and "
+"MiSUMI offer 15 mm :term:`extrusion <Extrusion>`. REV :term:`extrusion "
+"<Extrusion>` is not as great structurally, but is lighter than MiSUMI "
+":term:`extrusion <Extrusion>`. MiSUMI is more resistant to :term:`flexing"
+" and/or twisting under load <Torsional Rigidity>`. Both REV and MiSUMI "
+":term:`extrusion <Extrusion>` are sold in bulk, and MiSUMI has the option"
+" to cut to the half millimeter. Keep in mind that a lot of "
+":term:`extrusion <Extrusion>` can add up quickly in terms of weight."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:50
+msgid ""
+"MiSUMI and 8020 also offer aluminum :term:`extrusions <Extrusion>` in "
+"other sizes, such as 20mm and 1\". 20 mm :term:`extrusion <Extrusion>` "
+"can be a good choice if you need a sturdier frame than provided by 15mm "
+":term:`extrusion <Extrusion>`. Note that then you would need to buy "
+"special nuts, as 20mm :term:`extrusion <Extrusion>` is not compatible "
+"with M3 nuts. 1\" extrusion is regularly used as the primary building "
+"system in FRC\\ |reg|, but is definitely overkill for FTC."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:52
+msgid ""
+"Aluminum flat and aluminum angle is widely available at hardware stores. "
+"In certain applications, such as adapting from different build systems, "
+"it is possible to drill custom adapter plates to mount mechanisms to the "
+"drivetrain. Aluminum angle is also a very sturdy structural support piece"
+" that takes up relatively little space, and can adapt to any build "
+"system. We suggest using 1/8” alumimum with drivetrain or mounting "
+"applications, and 1/16” aluminum for low-load situations."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:54
+msgid ""
+"Aluminum drawer slides, often with :term:`ball bearings <Ball Bearing>`, "
+"are recommended over steel drawer slides due to weight savings. Refer to "
+"the :doc:`Linear Motion section </docs/common-mechanisms/linear-motion-"
+"guide/index>` for more information."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:56
+msgid ""
+"Sheet aluminum is generally used for drivetrain plates on custom "
+"drivetrains. The recommended thickness is 1/8\" or 3/16\". Because it is "
+"a plate, sheet aluminum will bend if not supported correctly with "
+":term:`standoffs <Standoff>` or :term:`channel <Channel>`. Only load the "
+"sheet in the plane that it is in (if the sheet is vertical, then only put"
+" vertical load on it; do not load it horizontally). However, there may be"
+" some applications that would benefit from a slight bit of flex for "
+"adjustability - in those cases, use your judgment and test it out for "
+"yourself!"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:61
+msgid ""
+"Steel is unnecessarily heavy for FTC structure. Aluminum provides plenty "
+"of strength at a fraction of the weight, and doesn't require welding."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:62
+msgid ""
+"The proper uses of steel in FTC are in shafts (most are made out of "
+"precision-ground stainless steel) and gearboxes."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:63
+msgid ""
+"Steel drawer slides can be used, but aluminum slides are highly "
+"recommended."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:66
+msgid "Plastics"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:69
+msgid "Lexan"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:71
+msgid ""
+"Polycarbonate, commonly known by its brand name Lexan, is a material that"
+" is great for applications such as drivetrain plates or intake collector "
+"boxes."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:72
+msgid "Lexan can bear load and is very impact-resistant."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:73
+msgid ""
+"Lexan is commonly used in intake and deposit mechanisms as it is clear, "
+"allowing the drive team to see into the intake itself, an advantage over "
+"wood."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:74
+msgid ""
+"Thick Lexan can be used for drivetrain plates, though this is not "
+"recommended for inexperienced teams."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:76
+msgid ""
+"Lexan is one of the most expensive materials per square foot, so make "
+"sure you have carefully planned out what you are cutting before doing so."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:78
+msgid ""
+"Thin Lexan can be bent with a metal brake or sheet bender. It is "
+"recommended for teams to use bends instead of connecting with bolts - "
+"bending tends to be much stronger than bolting as it means the part stays"
+" in one continuous piece. If a sheet bender is out of the question, it is"
+" possible to use a heat gun or camping burners to heat up the Lexan in "
+"order to bend it. This is not recommended as it can cause injury and "
+"bubbling if the Lexan is overheated. Alternatively, \"cold bending\", "
+"bending along a straight edge without applying heat can work for thinner "
+"sheets."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:83
+msgid "ABS is a hard low-friction plastic that is easily machinable."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:84
+msgid "ABS sheet can be used for side panels, ramps, and even drivetrain plates."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:85
+msgid "It is not as strong as Delrin, but strong enough for most purposes."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:86
+msgid "ABS is cheaper than Lexan and Delrin."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:87
+msgid ""
+"ABS can be machined using hand tools or CNC. ABS sheets can be also bent "
+"using sheet bender (recommended) or a heat gun."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:88
+msgid "Thin (1/16 inch) ABS sheets can also be cut using shears."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:93
+msgid ""
+"Acetal, also known under brand name Delrin, is a low-friction strong "
+"plastic. It is a common plastic used for wheels, plastic gears, and "
+"sprockets (especially in the REV system)."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:94
+msgid ""
+"It is a durable and strong plastic that is not easily cracked. Delrin can"
+" be used in drivetrain plates (use 1/4\" or 3/16\" thickness), but Delrin"
+" sheet is also quite expensive."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:95
+msgid ""
+"Delrin can be machined in a variety of ways including laser cutting, CNC "
+"routing and hand sculpting. However, bending Delrin is much harder than "
+"bending Lexan or ABS."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:100
+msgid ""
+"HDPE stands for High Density Polyethylene and usually comes in opaque "
+"white or black sheets and plates"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:101
+msgid ""
+"HDPE is a cheaper alternative with low-friction characteristics similar "
+"to Delrin and flexibility/structure near polycarbonate."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:102
+msgid ""
+"HDPE is easily machined by both hand tools and machine tools. However, it"
+" will burn in a laser cutter, so **do not laser cut HDPE.**"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:107
+msgid "PVC is a common lightweight plastic ubiquitous at any hardware store."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:108
+msgid "PVC is most commonly sold as pipe, though PVC sheet does exist."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:109
+msgid ""
+"FTC teams generally use PVC in order to customize intake rollers, "
+"especially for surgical tubing intakes. Due to the soft plastic, it is "
+"very easy to drill through, so teams often attach the surgical tubing to "
+"a PVC pipe. The PVC roller will then be attached to the intake motor."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:110
+msgid ""
+"Since PVC is cheap, teams can easily experiment with different mechanism "
+"configurations."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:111
+msgid ""
+"PVC pipe is sometimes used in cable management to run wires through, as "
+"it comes in different diameters and can easily be mounted."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:112
+msgid ""
+"PVC sheet can be bought or made by cutting vertically along the pipe so "
+"that the profile looks like a C. Bake in oven. PVC sheet is pliable yet "
+"sturdy, making it a good option for backstops or customizing connectors "
+"that require some sort of flex."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:119
+msgid ""
+"Acrylic is not a load-bearing material. It will crack and possibly "
+"shatter under impact."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:121
+msgid "Do not use it on drivetrains by any means!"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:123
+msgid "Acrylic is a transparent thermoplastic commonly known as Plexiglass."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:124
+msgid ""
+"As acrylic is not a structural material, it should only be used in "
+"mechanisms where there is no chance of shock impact."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:125
+msgid ""
+"It may be used for aesthetic purposes or as shielding (to protect game "
+"elements from falling into the robot or from other robots tangling with "
+"wires, etc.)"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:126
+msgid ""
+"Treat acrylic as fancy clear cardboard - it cannot be loaded and should "
+"only be used in very specific circumstances."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:129
+msgid "Other"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:132
+msgid "Plywood and MDF"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:134
+msgid ""
+"A medium to high strength material suitable for use in a wide variety of "
+"applications. Keep in mind that wood cannot be exposed to water or "
+"excessive humidity, as lumber for use in FTC isn't treated and may warp "
+"or expand. Do not try to use laser cut wood for a drivetrain. This is "
+"especially important if you live in a humid region such as Florida - wood"
+" expanding can completely ruin a custom drivetrain."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:135
+msgid ""
+"Baltic Birch is the highest grade plywood, used in commercial "
+"applications and furniture. It contains 8+ layers (usually), is extremely"
+" dense, and is recommended for high-load applications or structure. It is"
+" quite an expensive material, so prototype and plan carefully before "
+"cutting."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:136
+msgid ""
+"Plywood is not recommended for final iterations, but can be a cheap "
+"prototyping material. It doesn't bear load especially well and can flex "
+"quite a bit."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:137
+msgid ""
+"MDF is generally discouraged as there are better options and absorbs "
+"water easily."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:140
+msgid "Carbon Fiber"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:142
+msgid ""
+"**Machining carbon fiber, like any fibrous substance, is a significant "
+"SAFETY HAZARD! Carbon fiber dust especially can cause cancer and is "
+"incredibly dangerous. DO NOT MACHINE/CUT carbon fiber unless you know "
+"what you are doing. When you do, make sure to either use machinery that "
+"is designed to cut carbon fiber, or cut in a well ventilated area with "
+"sufficient respiratory protection and running water over the carbon "
+"fiber.**"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:144
+msgid ""
+"Carbon fiber is one of the strongest materials for FTC use. For most "
+"teams, it is totally overkill, but it can be used in some specific "
+"applications. * Carbon fiber rods are used in custom linear slide "
+"extensions or multi-axis arms."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:145
+msgid "It is probably the most expensive material to purchase."
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:148
+msgid "Cardboard"
+msgstr ""
+
+#: ../../source/docs/custom-manufacturing/materials-guide.rst:150
+msgid ""
+"**Please do not use cardboard as a load-bearing material.** We have seen "
+"too many teams use cardboard in ways that it shouldn't be used. Treat "
+"cardboard as a sheet of paper: it has no structural rigidity and only "
+"should be used as guides to channel pieces from A to B."
+msgstr ""
+

@@ -1,0 +1,719 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/software/using-android-studio.rst:2
+msgid "Using Android Studio"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:4
+msgid ""
+"`Android Studio <https://developer.android.com/studio/intro>`_ is an "
+"integrated development environment (IDE) for Android app development "
+"based on IntelliJ. It compiles your code to an apk which is then "
+"installed onto the Robot Controller: either the Control Hub or a legal "
+"Android phone."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:7
+msgid "Downloading Android Studio"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:9
+msgid ""
+"If you've already downloaded Android Studio, you can move on to the next "
+"step, which is `setting up the SDK <#setting-up-the-sdk>`_."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:11
+msgid "The steps to download and setup Android Studio are:"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:13
+msgid ""
+"Check to make sure your system meets the `necessary requirements "
+"<https://developer.android.com/studio#Requirements>`_"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:14
+msgid ""
+"Install the *latest* version of Android Studio from "
+"https://developer.android.com/studio/index.html"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:15
+msgid ""
+"Run the executable, follow the setup wizard, and use any and all "
+"recommended development kits"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:18
+msgid "Setting up the SDK"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:20
+msgid ""
+"Now that you have Android Studio installed, you're going to want to use "
+"the current season's SDK (software development kit) where you will create"
+" your team's code."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:23
+msgid "Downloading the SDK"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:25
+msgid ""
+"The SDK is publicly released to a GitHub repository every season. The "
+"current season's SDK can be found in the `FtcRobotController "
+"<https://github.com/FIRST-Tech-Challenge/FtcRobotController>`_ "
+"repository."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:28
+msgid "Downloading the ZIP"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:30
+msgid ""
+"When you're at the repository, click the green \"code\" button. Then, "
+"select \"Download ZIP.\""
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:36
+msgid "Then, save it to the desired location in your computer."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:42
+msgid ""
+"After it is saved, extract the contents of the ZIP and place them into "
+"whatever desired location. You should see the contents of the SDK inside "
+"of the folder location."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:45
+msgid "Using GitHub Desktop"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:47
+msgid ""
+"`Install GitHub Desktop <https://docs.github.com/en/desktop/installing-"
+"and-configuring-github-desktop/installing-and-authenticating-to-github-"
+"desktop>`_"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:48
+msgid ""
+"Open the `SDK repository <https://github.com/FIRST-Tech-"
+"Challenge/FTCRobotController>`_ in a browser."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:49
+msgid ""
+"Click the green \"code\" button, and then select \"Open with GitHub "
+"Desktop.\""
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:54
+msgid "Clone the project."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:60
+msgid "From the Command Line"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:62
+msgid "`Install git <https://github.com/git-guides/install-git>`_"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:63
+msgid "Open the terminal (probably bash) in the desired resource location."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:64
+msgid ""
+"Use :code:`$ git clone https://github.com/FIRST-Tech-"
+"Challenge/FtcRobotController.git`"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:67
+msgid "Opening the SDK on Android Studio"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:69
+msgid "Open Android Studio. If you have another project open, close it."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:75
+msgid ""
+"Check for updates. Click on the \"configure\" dropdown and select \"check"
+" for updates.\" If you do not have the latest version, download the "
+"updates."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:80
+msgid ""
+"Select \"Import Project.\" Navigate to where you have the SDK saved on "
+"your computer. Choose the directory that has the Android logo."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:85
+msgid ""
+"Change to project view. In the top left corner should be a dropdown that "
+"allows you to change the way you are looking at your project."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:90
+msgid ""
+"Wait for `Gradle`_ to complete the build. This indicator should be "
+"located at the bottom of the window by default."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:97
+msgid "Layout"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:99
+msgid ""
+"Android Studio can look intimidating at first glance, but there are only "
+"a few features needed to use it properly."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:106
+msgid "Creating Classes"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:108
+msgid ""
+"The first thing to note in the project view is the dropdown with the name"
+" of the project. If you drop that down, you will see all of the Gradle "
+"files and directories. Navigate to the TeamCode folder. In the teamcode "
+"folder you will see an :code:`org.firstinspires.ftc.teamcode` package."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:113
+msgid ""
+"This is where you will create your code for the robot. To create a new "
+"Java class, right click on the package, select New, and then choose "
+"\"Java Class.\""
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:119
+msgid ""
+"Alternatively, you can select the \"Package\" option if you want to "
+"create a subfolder for organization purposes. Then, you can create "
+"classes in those packages."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:122
+msgid "Terminal and Logcat"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:124
+msgid ""
+"Near the bottom left of the application, you will find tabs for the local"
+" terminal and logcat. These are useful tools for working with your "
+"program."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:129
+msgid ""
+"Some useful information on using the logcat can be found `here "
+"<https://developer.android.com/studio/debug/am-logcat>`_."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:131
+msgid ""
+"You can build your program through the commandline via the local "
+"terminal. Click on the terminal tab and then input :code:`gradlew "
+":TeamCode:clean :TeamCode:build`. This will delete the previously "
+"compiled files and build your TeamCode module."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:134
+msgid "Installing Your Program"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:136
+msgid ""
+"To install your program onto the Robot Controller, you will use the play "
+"button located near the top right of the application window."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:141
+msgid ""
+"Next to it you will see a dropdown for devices. When you connect your "
+"Robot Controller to your computer (using the correct cable), the device "
+"should appear in the dropdown after some time. Then, click the play "
+"button and your program will install onto the device."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:143
+msgid ""
+"If you run into any problems with this process, refer to the official "
+"`REV documentation <https://docs.revrobotics.com/rev-control-system/>`_. "
+"Some useful pages from the REV site are:"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:145
+msgid ""
+"`Troubleshooting the Control System <https://github.com/FIRST-Tech-"
+"Challenge/FtcRobotController/wiki/Android-Studio-Tutorial>`_"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:146
+msgid ""
+"`Deploying Code Wirelessly <https://docs.revrobotics.com/rev-control-"
+"system/programming/android-studio-using-wireless-adb>`_"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:148
+msgid ""
+"If you're still stuck you can ask for help in the `FTC Discord "
+"<https://discord.com/invite/first-tech-challenge>`_."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:151
+msgid "Gradle"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:153
+msgid ""
+"Gradle is a build tool for software development. In the scope of FTC, it "
+"is used to build and manage dependencies for your project."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:155
+msgid ""
+"When you update any of your Gradle files you will need to perform a "
+"Gradle sync, which syncs your project to the changes and rebuilds it. In "
+"your :code:`build.common.gradle`, you will find information for how your "
+"robot controller application is built."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:158
+msgid "Rebuilding"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:160
+msgid "You can rebuild your project easily with the build dropdown."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:165
+msgid ""
+"To rebuild from a clean project, press the clean project option. This "
+"removes old compiled files from your project so you can completely "
+"rebuild your project. It clears any production files, generated files, "
+"etc. This is useful for making sure old artifacts don't break anything "
+"when you build your code. When you next build your project, it will do so"
+" from scratch with no old compiled files to which it can refer. To "
+"rebuild your project, press the rebuild option."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:168
+msgid "Invalidate and Restart"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:170
+msgid ""
+"Sometimes you can get errors after moving things around, refactoring, "
+"etc. The first step is to try cleaning the project and doing a rebuild. "
+"If this doesn't work, you might have confused Android Studio because it "
+"caches information about your project structure."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:172
+msgid ""
+"The most common way to fix these errors is to do an invalidate and "
+"restart. In the file dropdown, there will be an option for this and then "
+"you will choose Invalidate and Restart. This clears the cache and "
+"restarts your Android Studio, which then should perform a Gradle rebuild."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:175
+msgid "Adding Dependencies"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:177
+msgid ""
+"If you want to add dependencies to your project, you can do so in the "
+":code:`build.gradle` file in the TeamCode directory."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:179
+msgid "There should be a dependencies block at the bottom of the file."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:192
+msgid ""
+"Some dependencies require changes to your other Gradle files. Make sure "
+"to read the installation instructions for whatever dependency you want to"
+" add."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:194
+msgid ""
+"Next, you add a line in the dependencies block to implement the "
+"dependency. This is generally done with :code:`implementation "
+"'com.package.name'`."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:205
+msgid ""
+"Refer to the instructions of whatever library you are using for the "
+"correct package name and version."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:207
+msgid "Finally, perform a Gradle sync."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:210
+msgid "Upgrading to Java 8"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:212
+msgid ""
+"By default, the SDK's version of Java is set to 7. Java 8 is also "
+"supported. You might want to upgrade your version of Java from 7 to 8 if "
+"you want to use features such as lambdas or generics. Some libraries may "
+"also require you to change your Java version."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:214
+msgid ""
+"To upgrade to Java 8, navigate to your :code:`build.common.gradle` file. "
+"Scroll down until you find this block:"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:223
+msgid "Change the :code:`7` to :code:`8`, like so:"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:232
+msgid "Then, perform a Gradle sync."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:235
+msgid "Android Debug Bridge"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:237
+msgid ""
+"On macOS, Linux, or using PowerShell you will have to change any commands"
+" that start with :code:`adb` to start with :code:`./adb` if you are in "
+"the :code:`platform-tools` directory."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:240
+msgid "Logcat"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:242
+msgid ""
+"Logcat is extremely useful for debugging issues with your code at runtime"
+" or figuring out what went wrong. For example, if your app activity "
+"crashes and you pull up the log seeing 5000 lines of something like this:"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:247
+msgid "then, you know that there is infinite recursion somewhere in your program."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:249
+msgid ""
+"To use logcat, plug in your device (or connect via ADB). Then, select the"
+" app you want to view the logs for. Your window should look like this."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:254
+msgid ""
+"If you have an issue you don't understand, you can print a PDF (option 5)"
+" of the log and ask a question in the `FTC discord "
+"<https://discord.com/invite/first-tech-challenge>`_."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:257
+msgid "Wireless Communication"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:259
+msgid ""
+"Android Debug Bridge (ADB) is a command-line tool that allows for "
+"wireless communication between the robot controller (phone or Control "
+"Hub)."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:261
+msgid ""
+"ADB should come with the platform tools in Android Studio. Navigate to "
+"your :code:`local.properties` file in the root of your project and you "
+"should see a path to the Android SDK on your computer, such as "
+":code:`C:\\Users\\Woodie\\AppData\\Local\\Android\\Sdk`. Then navigate to"
+" :code:`platform-tools` and an application called adb should be there. To"
+" use it, open CLI (like PowerShell or command prompt) and run either "
+":code:`adb devices` or :code:`./adb devices`."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:263
+msgid ""
+"For more information on ADB, you can look at the `developers page "
+"<https://developer.android.com/studio/command-line/adb>`_."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:266
+msgid "Setting Up ADB"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:268
+msgid ""
+"Ensure USB debugging is enabled on your device and it is in developer "
+"mode."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:269
+msgid ""
+"Make sure you have ADB installed. If you do not, follow the instructions "
+"at `this link <https://www.xda-developers.com/install-adb-windows-macos-"
+"linux/>`_"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:271
+msgid ""
+"You can use logcat via ADB with the :code:`adb logcat` command. This is "
+"extremely useful for debugging as it allows you to look at the logs "
+"wirelessly which saves time. Remember, logcat is the *best* way to debug "
+"your software."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:274
+msgid "Add ADB To PATH"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:276
+msgid "Adding variables to PATH:"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:278
+msgid ""
+"`Windows <https://docs.alfresco.com/content-"
+"services/latest/admin/troubleshoot/>`_"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:279
+msgid ""
+"`Linux/Unix (bash) <https://unix.stackexchange.com/questions/26047/how-"
+"to-correctly-add-a-path-to-path>`_"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:280
+msgid "`macOS (zsh) <https://koenwoortman.com/zsh-add-directory-to-path/>`_"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:282
+msgid ""
+"If you want to use ADB from any directory, add it to PATH. Follow an "
+"online tutorial for adding to PATH and set the PATH to the :code"
+":`platform-tools` directory. Once you do that, you can run ADB commands "
+"from anywhere on your system."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:285
+msgid "Connecting to a Phone Wirelessly"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:287
+msgid "Plug the robot controller phone into your computer."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:288
+msgid ""
+"Run the command :code:`adb devices` in the :code:`platform-tools` "
+"directory and see if the phone shows up."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:289
+msgid ""
+"Run :code:`adb usb` and then :code:`adb tcpip 5555`. You can then unplug "
+"the phone."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:290
+msgid ""
+"Connect to the same WiFi network the device is either hosting or on. The "
+"WiFi direct network created by the phone should be called \"TEAMNUMBER-"
+"RC\" or some small derivation of that. It may include extra letters if "
+"you have multiple devices per team. Refer to RS01 in |gm1| for further "
+"details on the network naming scheme."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:291
+msgid ""
+"Connect to the phone using :code:`adb connect 192.168.49.1:5555`. If this"
+" doesn't work, recheck the IP address of the phone and try again with "
+"that IP address if it is different."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:294
+msgid "Connecting to a Control Hub Wirelessly"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:296
+msgid ""
+"Connect to the WiFi hotspot hosted by the Control Hub. The hotspot should"
+" be called \"TEAMNUMBER-RC\" or some small derivation of that. It may "
+"include extra letters if you have multiple devices per team. Refer to "
+"RS01 in |gm1| for further details on the network naming scheme."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:297
+msgid ""
+"Once you're connected to a Control Hub's network, you simply need to "
+"connect to it using :code:`adb connect 192.168.43.1:5555`."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:299
+msgid ""
+"Once a connection is established, it should appear in the device dropdown"
+" in Android Studio."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:302
+msgid "Wireless Configuration"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:304
+msgid ""
+"You can set up a configuration on the Driver Station or Robot Controller "
+"like usual. However, you can also create a valid configuration XML file "
+"in :code:`TeamCode/src/main/res/xml`. You can find your configuration "
+"files in the :code:`/sdcard/FIRST` folder as an XML file with the same "
+"name as the configuration."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:306
+msgid ""
+"To get these XML files wirelessly, you can use :code:`adb pull "
+"/sdcard/FIRST/config.xml /fully/qualified/path/res/xml`."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:308
+msgid ""
+"If a valid configuration XML file is in :code:`res/xml` it will show up "
+"as a configuration you can use for the robot when you push it to the "
+"Robot Controller or a Control Hub."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:311
+msgid "SDK Manager"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:313
+msgid ""
+"You can find the SDK manager in the top right corner of your Android "
+"Studio."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:319
+msgid "Accepting Licenses"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:321
+msgid ""
+"If you get a warning complaining about licenses not being accepted, "
+"follow these steps:"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:323
+msgid "Go to the SDK manager and under SDK Platforms."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:324
+msgid "Select the version with the API level specified by the warning."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:325
+msgid "Click \"Apply\" and wait for the components to install."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:326
+msgid ""
+"Once this finishes, press \"Finish,\" then \"Ok.\" Wait for Android "
+"Studio to index if it is."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:327
+msgid "Restart Android Studio."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:330
+msgid "Installing SDK Tools"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:332
+msgid ""
+"To install any SDK tools such as platform tools or build tools, open the "
+"SDK manager and go to SDK Tools. Select the tools you want to install and"
+" install them the same way you would for the SDK platforms."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:335
+msgid "Version Control"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:337
+msgid ""
+"Version control is an extremely useful tool. It allows for looking at "
+"(and reverting to) previous versions of code, easy collaboration, having "
+"multiple versions of code that can be merged together, etc."
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:339
+msgid ""
+"As far as version control systems go, we strongly recommend git. While a "
+"git tutorial is out of scope for |gm0|, here are some git resources:"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:341
+msgid "`The official git tutorial <https://git-scm.com/docs/gittutorial>`_"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:342
+msgid ""
+"`GitHub's collection of git resources <https://docs.github.com/en/get-"
+"started/quickstart/set-up-git>`_"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:343
+msgid ""
+"`GitHub's guide to installing git <https://github.com/git-guides/install-"
+"git>`_"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:344
+msgid "`GitHub Desktop, a git GUI <https://desktop.github.com/>`_"
+msgstr ""
+
+#: ../../source/docs/software/using-android-studio.rst:345
+msgid ""
+"`Android Studio's/IntelliJ's git integration documentation "
+"<https://www.jetbrains.com/help/idea/version-control-integration.html>`_"
+msgstr ""
+

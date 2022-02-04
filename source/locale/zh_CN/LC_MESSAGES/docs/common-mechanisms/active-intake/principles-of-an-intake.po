@@ -1,0 +1,163 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:2
+msgid "Principles of an Intake"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:5
+msgid "Reliability"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:7
+msgid ""
+"An intake must be reliable, as picking up and scoring game elements is "
+"the primary method to gain points in all FTC games."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:9
+msgid ""
+"Intakes have many moving parts and are susceptible to breaking, "
+"especially at high RPM. Thus, the intake material must be durable to "
+"withstand long periods of operation."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:11
+msgid ""
+"Intakes often stick outside of the robot frame perimeter. In this case, "
+"durability becomes extremely important; the intake must be built so that "
+"they can withstand impacts/collisions with other robots or parts of the "
+"field."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:13
+msgid ""
+"There are two ways to accomplish this - either by building the intake "
+"very robustly (lots of support so it doesn't break), or making the intake"
+" flexible (for example out of lexan or spring loading it) so that even "
+"though it may bend due to impacts, it will always spring back into place."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:15
+msgid ""
+"Another way to prevent intake breaking is to make a fully retractable "
+"intake that won’t protrude outside the 18” cube, though this is seldom "
+"needed."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:18
+msgid "Consistency"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:20
+msgid ""
+"The intake **must** be able to pick up game elements consistently and "
+"quickly. For example, in Rover Ruckus each robot could only possess 2 "
+"minerals at a time. Therefore, the intake should only pick up two pieces "
+"at a time, not zero, one, or three."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:22
+msgid ""
+"This is a common mistake that many inexperienced teams fail to take into "
+"account."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:24
+msgid ""
+"Another component is the varying angles that the game objects can be "
+"located in. This was especially apparent in the Relic Recovery season, "
+"where the “glyphs” (foam cubes) could be oriented in many directions."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:26
+msgid ""
+"Even though it was relatively easy to make a compliant wheel intake that "
+"could effectively intake glyphs in one direction, it was hard to make an "
+"intake that could deal with angled glyphs. Being able to intake glyphs in"
+" all orientations was especially important for multi-glyph autonomous "
+"modes."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:29
+msgid "Controllability"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:31
+msgid ""
+"The intake must be able to consistently control the game elements. For "
+"example, if the intake is too fast and the collection box is not well "
+"designed, then game pieces might fly out. If the intake is too slow, it "
+"may jam itself when contacting the game elements."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:32
+msgid ""
+"It is possible for pieces to get jammed at an unreachable angle, "
+"especially when using wheeled intakes. If this occurs, ensure that the "
+"driver can jar the stuck element loose to avoid having a disabled robot."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:33
+msgid ""
+"Optimally, the game elements should follow a certain path each time if "
+"funneling is done correctly."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:34
+msgid ""
+"It is best practice that the driver can see the game elements which are "
+"being controlled. This can be done through using clear plating such as "
+"Lexan."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:37
+msgid "Efficiency"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:39
+msgid ""
+"The key to any successful robot is cycle time. Reducing cycle time by "
+"having an efficient intake will lead to major improvements in score. A "
+"good intake should take no more than a few seconds to successfully "
+"collect the needed elements."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:41
+msgid ""
+"For example, in Relic Recovery, the best intakes often had a <3 second "
+"collection time for two game elements, and in Rover Ruckus a 1 second "
+"collection time was desired at the highest level."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:42
+msgid ""
+"A key rule to remember in FTC is the shortest distance rule: how can you "
+"get minerals from A to B in the shortest distance?"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/active-intake/principles-of-an-intake.rst:44
+msgid ""
+"The answer is usually a couple straight lines. The closer the minerals "
+"follow this path, the faster they will go from collection to deposit. "
+"Don't make overly long routes unless needed."
+msgstr ""
+

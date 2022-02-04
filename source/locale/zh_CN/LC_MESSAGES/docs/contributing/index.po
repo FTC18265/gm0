@@ -1,0 +1,161 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/contributing/index.rst:2
+msgid "Contributor's Guide"
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:5
+msgid "Introduction"
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:7
+msgid ""
+"Hello, and thank you for taking the time to consider contributing to "
+"|gm0|. Your knowledge and contributions will help many other teams, and "
+"improve |gm0| as a universal resource. This document is designed to give "
+"a basic overview of contributing to |gm0|."
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:10
+msgid "Who can contribute?"
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:12
+msgid ""
+"|gm0| welcomes contributions from basically anybody. The majority of this"
+" guide was written by accomplished students of FTC from a wide variety of"
+" teams, alongside mentors and alums. Our editorial control is based "
+"purely on content, as long as the content is good, it’ll be added to "
+"|gm0|."
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:15
+msgid "Goals of |gm0|"
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:17
+msgid ""
+"Before writing, please take the time to familiarize yourself with the "
+"goals of |gm0|. The primary goals are:"
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:19
+msgid ""
+"To inform and guide newer teams, participants, and coaches of the FIRST "
+"Tech Challenge and help them achieve their competitive goals."
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:20
+msgid ""
+"To act as a living reference for mechanisms, techniques, and community "
+"knowledge pertinent to FIRST Tech Challenge."
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:22
+msgid ""
+"These goals may seem relatively self-explanatory, but they have several "
+"important takeaways."
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:24
+msgid ""
+"**These goals do not necessarily build upon each other.** For example, "
+"let’s look at the :doc:`/docs/robot-design/drivetrains/index` section. If"
+" we want to simply guide more rookie teams on a path to become "
+"successful, we would discuss the very popular drivetrains that teams may "
+"encounter (2WD, 4WD, 6WD, mecanum, X-Drive, and H-Drive) so that teams "
+"can quickly get up to speed and choose a competitive drivetrain. However,"
+" if the goal is to be a comprehensive reference, we would include every "
+"single possible drivetrain ever created for FTC, even if they aren’t very"
+" competitive or realistic for newer teams to build (swerve, ball, "
+"octocanum, etc)."
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:26
+msgid ""
+"We are seeking to accomplish both goals with a new structure: there will "
+"be a “For Rookies” page, that will link to a list of curated pages "
+"designed for rookies, while pages outside this list can act as more "
+"comprehensive references."
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:27
+msgid ""
+"Keep the goal of the page and whether it is designed to be kept on the "
+"“For Rookies” page in mind while writing, and adjust the content "
+"accordingly."
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:29
+msgid ""
+"**Game Manual 0 is a guide from primarily a competitive standpoint.** In "
+"general our recommendations have the end goal of increasing the points "
+"scored by a team while working inside a team’s limitations, and building "
+"good technical habits that will be useful in a future career."
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:30
+msgid ""
+"**Game Manual 0 seeks to inform, not tell.** |gm0| does not wish to "
+"encourage one “meta” design or series of techniques, instead, the guide "
+"seeks to present teams with a variety of options, with a pros and cons "
+"list of each, and let teams make their own decisions for their own "
+"circumstances. If recommendations are given, they must be based on "
+"objective, repeatable reasoning. For more information on this, read the "
+":doc:`style-guide`."
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:32
+msgid ""
+"**Game Manual 0 is generally a high level concept guide.** This means "
+"that information is given in a way that is applicable to many situations,"
+" rather than a series of steps. However, when possible we link to "
+"external documentation to plug any knowledge gaps. For example: in the "
+"electronics sections, we do not discuss how to exactly wire the robot "
+"using the REV control system, instead we link to the REV documentation "
+"for exact wiring and discuss general wiring best practices."
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:35
+msgid "Getting Started Contributing"
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:37
+msgid "Read through this document"
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:38
+msgid "Read through the :doc:`style-guide`"
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:39
+msgid ""
+"Review the `Project List "
+"<https://docs.google.com/document/d/1_o7SoUFs6OznR0U07-Mxr5CLdYmKN-"
+"NuU7TiQX8nL6A/edit>`_ and `GitHub issues "
+"<https://github.com/gamemanual0/gm0/issues>`_"
+msgstr ""
+
+#: ../../source/docs/contributing/index.rst:40
+msgid "Check out the :doc:`methods-of-contributing`"
+msgstr ""
+

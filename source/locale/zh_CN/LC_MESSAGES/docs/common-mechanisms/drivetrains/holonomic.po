@@ -1,0 +1,456 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:4
+msgid "Holonomic Drivetrains"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:7
+msgid "Mecanum Drive"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:9
+msgid ""
+"Mecanum drivetrains consist of four mecanum wheels which are powered "
+"independently by one motor. This configuration angles the velocity of "
+"each wheel, allowing the robot to strafe."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:11
+msgid ""
+"The primary advantage to mecanum drive is the maneuverability it affords,"
+" especially because the robot can strafe instead of turn and drive. The "
+"rollers on mecanum wheels form a 45 degree angle with the wheel’s axis of"
+" rotation, which means that mecanum drivetrains can’t strafe as fast as "
+"they can drive forward."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:13
+msgid ""
+"This can be explained by discussing the forces involved. When each wheel "
+"rotates, it applies a friction force to the ground, which moves the "
+"robot. When moving forward, both sets of left wheels rotate in the same "
+"direction at the same speed, and both sets of right wheels rotate in the "
+"same direction at the same speed, meaning that the forces do not oppose "
+"each other. However, when strafing, neither the two left wheels nor the "
+"two right wheels are rotating at the same speed. In many cases, they even"
+" rotate in opposite directions."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:15
+msgid ""
+"These two opposing forces cause the rollers to slip more and more, which "
+"angles the robot’s velocity at the expense of traction (more slipping "
+"results in a loss of speed). However, the wheels do still slip when "
+"moving forward but not as drastically as they do when strafing."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:17
+msgid ""
+"This is the primary disadvantage to mecanum drivetrains: they tend not to"
+" have much pushing power and thus, are vulnerable to defense by a sturdy "
+"tank drive."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:19
+msgid ""
+"Due to the fact that mecanum wheels are more likely to slip because of "
+"the diagonal rollers, an optional addition to mecanum drives is a "
+"separate odometry mechanism in order to track the robot’s location during"
+" autonomous."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:23
+msgid ""
+"It is important to note that in order to maximize the efficiency and "
+"stability of mecanum drives, when viewed from above, the rollers of each "
+"wheel should point towards the center of the robot, forming an X shape, "
+"rather than a rhombus."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:25
+msgid ""
+"The primary reason for this is that it allows the drivetrain to turn "
+"significantly faster than it would otherwise be able to. When using the "
+"suggested setup, when viewed from the robot’s underside, the rollers form"
+" a rhombus. This allows the force applied by the wheels on the ground to "
+"act tangent to the turn radius, leading to faster turning."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:28
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:115
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:150
+msgid "Advantages"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:30
+msgid ""
+"Fantastic maneuverability and agility due to strafing, can avoid defense "
+"very well"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:31
+msgid "Good acceleration, can have high top speed"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:32
+msgid "Very versatile drivetrain for nearly any game"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:35
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:121
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:158
+msgid "Disadvantages"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:37
+msgid ""
+"Suffers in traction, as mecanum rollers have a lower coefficient of "
+"friction than traction wheels; cannot traverse terrain"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:38
+msgid "Able to be pushed around on defense"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:39
+msgid "Wheels must be powered independently, so there is no redundancy"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:45
+msgid "Configuration for mecanum wheels, courtesy goBILDA"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:48
+msgid "Mecanum Wheels Miniguide"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:50
+msgid ""
+"One of the most important features of a mecanum wheel is the mechanism "
+"that allows the roller to spin---either :term:`bushings <Bushing>` or "
+":term:`ball bearings <Ball Bearing>`. Mecanums which use ball bearings "
+"strafe better than those which use bushings, as the rollers can spin with"
+" less friction."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:52
+msgid ""
+"In the past, some teams have invested in 6 inch diameter mecanum wheels. "
+"These are generally much more expensive and generally do not provide "
+"significant performance benefits. We highly recommend sticking with "
+"wheels that are between 3 and 4 inches in diameter."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:55
+msgid "Recommended"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:57
+msgid ""
+"These wheels are the gold standard of mecanum wheels, if you are buying "
+"new mecanum wheels there is very little reason to buy any mecanum wheels "
+"not from this section."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:59
+msgid ""
+"`goBILDA Mecanum Wheels v2  <https://www.gobilda.com/96mm-mecanum-wheel-"
+"set-70a-durometer-bearing-supported-rollers/>`_ ($105 with team "
+"discount): The goBILDA v2 Mecanum Wheels are the gold standard for teams "
+"wanting a quality design in all aspects. They feature a 96mm diameter and"
+" a thickness of 38mm, with ball bearing supported, 70A durometer rollers "
+"that provide excellent strafing performance. With the use of recessed "
+"16x16mm and 32x32mm holes, these wheels have the largest amount of "
+"mounting options and can fit all shaft styles commonly used in FTC."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:60
+msgid ""
+"`REV Robotics Mecanum Wheels <https://www.revrobotics.com/rev-45-1655/>`_"
+" ($93.50 with team discount): The REV Robotics Mecanum Wheels come in at "
+"only 75mm in diameter, providing a smaller mecanum wheel option to FTC "
+"teams; however, they are not the thinnest option at 40.8mm thick. They "
+"feature ball bearing supported rollers that provide exceptional strafing "
+"capabilities and traction. The hole pattern featured on these wheels is "
+"compatible with Andymark Nubs as well as the REV Robotics Universal Hex "
+"Adapter v2 (which is included); however, in order to use other shaft "
+"options the use of an adapter or physical modification will likely be "
+"required."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:63
+msgid "Viable"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:65
+msgid ""
+"These mecanums have acceptable performance but there is very little "
+"reason to buy them at this point, as they have been superseded by better "
+"ones. If you already own them, they are a viable option, but consider "
+"looking at some of the mecanums from the `Recommended`_ section."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:67
+msgid ""
+"`Nexus Ball Bearing Mecanum Wheels <https://www.robotshop.com/en/100mm-"
+"mecanum-wheel-set.html>`_ ($109.49): These wheels are 100 mm in diameter "
+"and 59 mm wide. They strafe excellently because of the use of ball "
+"bearings. However, they are more expensive, take up more space, have less"
+" traction, and are harder to mount to than the recommended wheels."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:68
+msgid ""
+"`goBILDA Mecanum Wheels v1 <https://www.gobilda.com/96mm-mecanum-wheel-"
+"set-70a-durometer-bearing-supported-rollers/>`_ (discontinued): These "
+"wheels are very similar to the Nexus Ball Bearing Mecanum Wheels, but "
+"with a different color scheme and better mounting options."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:69
+msgid ""
+"`Andymark Heavy Duty Mecanum Wheels <https://www.andymark.com/products/4"
+"-in-hd-mecanum-wheel-set-options>`_ ($225): These are easily the most "
+"expensive mecanums on the list. These wheels are 4\" in diameter and "
+"1.65\" wide. These are bushing based mecanums, so while they strafe "
+"decently they still perform worse than bearing based ones. They have a "
+"good amount of traction, more than the Nexus bearing or bushing wheels."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:70
+msgid ""
+"`Nexus Bushing Mecanum Wheels <https://www.robotshop.com/en/100mm-"
+"aluminum-mecanum-wheel-set.html>`_ ($72): This is the Nexus Ball Bearing "
+"Mecanum Wheel with bushings instead of ball bearings. There is not much "
+"to say about them except that they strafe decently but worse than the "
+"ball bearing based equivalent."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:73
+msgid "Not Recommended"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:75
+msgid ""
+"There is almost no reason to use these mecanum wheels---they perform very"
+" poorly and are not much cheaper than those in the `Recommended`_ "
+"section. We cannot recommend the use of these on an FTC robot, if it all "
+"possible replace them with mecanums from the `Recommended`_ section."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:77
+msgid ""
+"`VexPro Mecanum Wheels <https://www.vexrobotics.com/mecanum-"
+"wheels.html>`_ ($119.96): These mecanums are most suited for vectored "
+"intakes on FRC\\ |reg| robots. They have somewhat poor strafing and are "
+"not as durable as the other wheels on the list."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:78
+msgid ""
+"`TETRIX Mecanum Wheels <https://www.pitsco.com/TETRIX-MAX-Mecanum-"
+"Wheels>`_ ($149): These mecanums are designed with a bushing based, hard "
+"plastic roller which in turn creates poor strafing performance. The "
+"integrated hub is a set screw based design with a round bore, causing "
+"unreliability as well as taking up extra space."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:79
+msgid ""
+"`VEX EDR Mecanum Wheels <https://www.vexrobotics.com/edr-wheels.html>`_ "
+"($64.99): These are the cheapest mecanum wheels, but use an unusual shaft"
+" standard (1/8\" square) and require the use of 3D printed adapters. They"
+" strafe poorly."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:80
+msgid ""
+"`Andymark Standard Duty Mecanum Wheels "
+"<https://www.andymark.com/products/4-in-standard-mecanum-wheel-set>`_ "
+"($77): These wheels barely strafe and are super fragile."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:85
+msgid "8103 Null Robotics, Rover Ruckus, **using Nexus bearing mecanum**"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:90
+msgid "9829 MakBots, Relic Recovery, using **VexPro mecanum**"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:95
+msgid "731 Wannabee Strange, Rover Ruckus, using **AndyMark HD mecanum wheels**"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:98
+msgid "X-Drive"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:100
+msgid ""
+"X-Drive is a holonomic omni-wheel based drivetrain. This type of drive "
+"involves mounting 4 omni wheels at the corner of the robot at a 45 degree"
+" angle."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:102
+msgid ""
+"One notable difference between X-Drive and mecanum is strafe speed. "
+"While, as mentioned in the mecanum section, the ratio of strafe speed to "
+"forward speed is noticeably less than 1, the ratio on an X-Drive is "
+"exactly 1 due to the rotational symmetry of the wheel placement. This "
+"means that an X-Drive bot’s strafe speed and forward speed are "
+"equivalent. The drivetrains are slower, however, when strafing at 45° "
+"(approximately :math:`\\frac{\\sqrt{2}}{2}` of its forward speed)."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:104
+msgid ""
+"Even though X-drive has good turning and acceleration, the main downside "
+"to the drive is packaging/form factor. Packaging refers to how "
+"easy/convenient the drivetrain fits into the overall design of the robot."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:106
+msgid ""
+"Ideally, the drivetrain should take up as little space as possible to "
+"make it easier to design mechanisms around. Because the omni wheels are "
+"offset, packaging a X-Drive is more difficult than other types of "
+"holonomic drive like mecanum or H-Drive. Also because of the strange "
+"packaging, it is relatively difficult to cleanly transfer power from the "
+"motors to wheels, meaning that most X-Drives end up being direct-driven, "
+"which is bad for the lifespan of the motor gearbox."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:110
+msgid ""
+"When using X-Drive, the robot moves forwards/backwards/straight side-to-"
+"side :math:`\\sqrt{2}` times faster than a drivetrain with wheels in the "
+"normal orientation (with the same gear ratio and wheel size)."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:112
+msgid ""
+"For an explanation of why exactly this is, see `this analysis "
+"<https://www.chiefdelphi.com/t/paper-mecanum-and-omni-kinematic-and-"
+"force-analysis/106153>`_."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:117
+msgid "Good maneuverability and agility"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:118
+msgid "Good acceleration"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:123
+msgid "Prone to defense, pushed around easily"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:124
+msgid "Often uses direct drive due to awkward form factor"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:129
+msgid "731 Wannabee Strange, Velocity Vortex"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:134
+msgid "5040 Nuts and Bolts, Relic Recovery"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:137
+msgid "H-Drive"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:139
+msgid ""
+"H-Drive (also known as U-drive, depending on the configuration) is a "
+"holonomic type drive that uses all omni wheels. H-Drive relies on a set "
+"of “strafer wheels” that are perpendicular to the forward/backward wheels"
+" to achieve strafing. H-Drive is similar to a fusion of a tank drivetrain"
+" while retaining the maneuverability and strafing of holonomic "
+"drivetrains."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:141
+msgid ""
+"H-Drive is theoretically very easy to code, but most teams employ some "
+"sort of gyro correction to strafe straight, although it is not necessary "
+"with proper weight distribution."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:143
+msgid ""
+"H-Drive has a number of possible motor configurations - 1 or 2 motors can"
+" be put on each forward drive pod, and one or two motors can be put on "
+"the strafe wheels. In the configuration with one motor on each forward "
+"drive pod, H-Drive has slightly reduced acceleration compared to mecanum "
+"drive."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:145
+msgid ""
+"For the highest possible reliability, many FRC\\ |reg| teams will suspend"
+" their strafe wheels on a rocker system to ensure that all wheels are in "
+"contact with the ground while the robot is not strafing."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:147
+msgid ""
+"By far the biggest advantage of H-drive is its ability to accommodate "
+"multiple motor distributions. For instance, if you want to dedicate only "
+"3 motors to your mechanisms and you have a motor left over, using a 1 "
+"strafe motor, 4 drive motor configuration is absolutely viable. Or if you"
+" dedicate 5 motors for your mechanisms, H-drive with 2 drive motors and 1"
+" strafe motor is definitely optimal."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:152
+msgid "Combines tank and holonomic drivetrain advantages"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:153
+msgid "Can be used with 3 or 5 motors"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:154
+msgid "Good traction and top speed"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:155
+msgid "Great maneuverability and agility"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:160
+msgid "Strafing is slightly less effective than mecanum"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:161
+msgid "Complex suspension occasionally needed, depending on design"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/drivetrains/holonomic.rst:166
+msgid "9804 Bomb Squad, Relic Recovery"
+msgstr ""
+

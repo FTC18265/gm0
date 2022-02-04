@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/common-mechanisms/arms/index.rst:2
+msgid "Arms"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/arms/index.rst:4
+msgid ""
+"Arms are another way to achieve extension past the 18” x 18” dimension of"
+" the robot. Unlike linear extensions, arms require lots of torque - a "
+"standard 40:1 or even 60:1 gearbox will not be suitable in most "
+"applications. For example, many teams will run a 256:1 gearbox for their "
+"rotation motor."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/arms/index.rst:6
+msgid ""
+"Such motors must be very well supported, or else the motor may torque "
+"itself free from its mount."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/arms/index.rst:8
+msgid ""
+"Rarely should an arm be directly mounted to the driving motor. Instead, "
+"torque should be transferred via gear, chain, or belt. Large arms can "
+"also be hard to control (with the addition of momentum adding load to the"
+" gearbox, it is hard to stop a three-foot arm that weighs five pounds "
+"quickly without breaking a gearbox). In many cases, this issue can be "
+"mitigated with software (see the :doc:`/docs/software/control-loops` "
+"section)."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/arms/index.rst:10
+msgid ""
+"Depending on the application and implementation, arms can be either "
+"faster or slower than extension options."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/arms/index.rst:12
+msgid ""
+"The different types of arms in FTC include single arm, chain bar and "
+"multi-axis arms."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/arms/index.rst:15
+msgid "Advantages"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/arms/index.rst:17
+msgid "Single bar arms can be relatively simple to build."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/arms/index.rst:18
+msgid ""
+"Arms can be useful in low-load applications; however, most mechanisms in "
+"FTC are not very light."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/arms/index.rst:22
+msgid "Disadvantages"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/arms/index.rst:24
+msgid ""
+"Arms require an insane amount of torque, and in order to do so, teams "
+"must purchase high-torque gearboxes, such as `UltraPlanetary gearbox from"
+" REV <https://www.revrobotics.com/rev-41-1600/>`_, or the more expensive "
+"VersaPlanetary (potentially Lite) and NeveRest Sport. One can also use "
+"the high gear ratio `goBILDA planetary gearbox motors "
+"<https://www.gobilda.com/yellow-jacket-planetary-gear-motors>`_."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/arms/index.rst:26
+msgid ""
+"While single arms may be more simple, they cannot provide enough "
+"extension for most games."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/arms/index.rst:29
+msgid "Types of Arms"
+msgstr ""
+

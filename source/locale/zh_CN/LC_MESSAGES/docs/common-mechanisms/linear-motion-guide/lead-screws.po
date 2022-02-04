@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/lead-screws.rst:4
+msgid "Lead Screws"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/lead-screws.rst:6
+msgid ""
+"Lead screws use a threaded rod to create high-torque linear motion. Their"
+" primary advantage is being able to handle much higher loads than other "
+"unmodified kit options. While this option was popularized in Rover Ruckus"
+" for hanging robots, variations have been in use since as far back as "
+"Res-Q. Another use case for lead screws is to change the angle of an arm "
+"platform, though this is more common in FRC\\ |reg|. However, this "
+"ability to handle high loads comes at a cost: lead screws are extremely "
+"slow."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/lead-screws.rst:8
+msgid ""
+"By far the most popular lead screw option is the `ServoCity Linear "
+"Actuator kit <https://www.servocity.com/linear-actuator-"
+"kit-a-7-4-stroke-x-rail-piston/>`_. Overall, this kit is lightweight, "
+"simple, and cheap. It can be a good start for teams using REV and needing"
+" a linear extension, and is generally usable out of the box."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/lead-screws.rst:11
+msgid "Advantages"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/lead-screws.rst:13
+msgid "Easy way for high-load, high-torque applications"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/lead-screws.rst:14
+msgid "Compact form factor"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/lead-screws.rst:15
+msgid "Typically only requires one motor"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/lead-screws.rst:18
+msgid "Disadvantages"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/lead-screws.rst:20
+msgid "Not for quick linear extensions"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/lead-screws.rst:21
+msgid "High torque translates to slow extension speed"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/lead-screws.rst:29
+msgid "11115 Gluten Free, Rover Ruckus, Actobotics lead screw used for hang"
+msgstr ""
+

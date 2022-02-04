@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/power-and-electronics/servo-guide/specialty-servos.rst:2
+msgid "Specialty Servos"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/servo-guide/specialty-servos.rst:4
+msgid "In this section we list some :term:`servos <Servo>` with unique features."
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/servo-guide/specialty-servos.rst:7
+msgid "HS788 Sail Winch Servo"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/servo-guide/specialty-servos.rst:9
+msgid ""
+"This large scale :term:`servo <Servo>` is unusual in that it is able to "
+"rotate multiple turns while retaining positioning feedback. Most "
+":term:`servos <Servo>` have 180 degree range; for HS788, the range is "
+"about 8 full turns when used with a :term:`servo <Servo>` controller "
+"capable of 500-2500 microsecond PWM signal, such as :term:`REV Expansion "
+"Hub <Expansion Hub>`. This makes it a great option for powering linear "
+"slides (as long as they do not carry too heavy load)."
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/servo-guide/specialty-servos.rst:11
+#, python-format
+msgid ""
+"HS788 is available from several vendors including ServoCity and goBILDA, "
+"both of which offer 25% discount to FTC teams."
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/servo-guide/specialty-servos.rst:14
+msgid "PARALLAX High Speed CR Servo"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/servo-guide/specialty-servos.rst:16
+msgid ""
+"This continuous rotation :term:`servo <Servo>` from Parallax "
+"(https://www.parallax.com/product/high-speed-continuous-rotation-servo/) "
+"has the speed of up to 180 RPM - three times as fast as most "
+":term:`servos <Servo>`. This makes it usable for powering intakes "
+"(assuming you do not need much torque) and similar designs. Note that "
+"this :term:`servo <Servo>` requires 6V input, so it can not be used "
+"directly with :term:`REV hubs <Expansion Hub>`, which only provide 5V. "
+"Instead, you need a `REV Servo Power Module "
+"<https://www.revrobotics.com/rev-11-1144/>`_."
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/servo-guide/specialty-servos.rst:19
+msgid "VEX 393 EDR"
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/servo-guide/specialty-servos.rst:21
+msgid ""
+"The :term:`VEX 393 EDR` is technically a motor, but is legally counted as"
+" a :term:`servo <Servo>` in Game Manual 1 rules. Why this is, we do not "
+"know, but :term:`VEX 393 motors <VEX 393 EDR>` have been legal in FTC for"
+" many years. The :term:`393 motor <VEX 393 EDR>` acts as a more powerful "
+"and faster continuous rotation :term:`servo <Servo>`. It should be "
+"treated as a continuous rotation :term:`servo <Servo>` when configuring "
+"the robot and programming."
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/servo-guide/specialty-servos.rst:23
+msgid ""
+"However, there are some difficulties to keep in mind. The 393 motor uses "
+"a 1/8\" square :term:`shaft <Shaft>`, which is not directly compatible "
+"with any FTC build system. You will have to make custom adapters. Using a"
+" :term:`393 motor <VEX 393 EDR>` requires two additional equipment."
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/servo-guide/specialty-servos.rst:25
+msgid ""
+"**Motor Controller 29** The :term:`VEX Motor Controller 29` converts the "
+"2-wire motor signal used to drive the :term:`393 <VEX 393 EDR>` into a "
+"PWM signal for :term:`servo <Servo>`."
+msgstr ""
+
+#: ../../source/docs/power-and-electronics/servo-guide/specialty-servos.rst:26
+msgid ""
+"**REV Servo Power Module** The REV :term:`Servo Power Module` is used to "
+"boost the voltage given to :term:`servos <Servo>` through the "
+":term:`Expansion Hub` (3.3V) to 5V, which is the minimum voltage needed "
+"to run a :term:`393 <VEX 393 EDR>`. The SPM accepts PWM signal through "
+"the three-pronged wire end of the :term:`MC29 <VEX Motor Controller 29>`."
+" The SPM will need to be plugged in to the :term:`Expansion Hub's "
+"<Expansion Hub>` power through a Tamiya connector. Crimping ring "
+"terminals to the SPM is necessary."
+msgstr ""
+

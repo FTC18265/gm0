@@ -1,0 +1,621 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:4
+msgid "Rigging"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:6
+msgid ""
+"Rigging refers to the way that string, belt, or chain is set up to extend"
+" and retract a linear extension. This is an important and time-consuming "
+"requirement for any team that uses linear extension, so be sure to spend "
+"adequate time on it."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:12
+msgid ""
+"Example rigging setup from team 7236 Recharged Green. This setup utilizes"
+" a continuous stringing setup for the first stage and a cascaded belt-"
+"driven second stage."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:17
+msgid "Continuous Rigging"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:19
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:50
+msgid "**Generally recommended**"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:21
+msgid ""
+"Continuous rigging entails rigging one long **extension string**, "
+"originating from a motor-powered spool, to the top of the base stage, "
+"then to the bottom of the first stage, then to the top of the first "
+"stage, then to the bottom of the second stage, etc. A **retraction "
+"string**, originating from a second spool on the same axis as the "
+"extension spool, is then anchored to the top stage. When the motor "
+"rotates one direction, the extension spool reels in the extension string,"
+" so it becomes shorter. In doing so, the distance between the top of one "
+"stage and the bottom of the next stage decreases, causing the system to "
+"extend."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:23
+msgid ""
+"The last stage always extends and retracts before the other stages (this "
+"can be either an advantage or a disadvantage, depending on the "
+"application)."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:25
+msgid ""
+"Once the last stage hits its limit, the next to last stage extends "
+"outwards, and so on; the pattern repeats until every stage is fully "
+"extended. When the motor spins **in the opposite direction**, the "
+"retraction string is reeled in, pulling the top stage closer to its "
+"starting position until the system is back where it started. For the "
+"retraction string, it is often necessary to add an extra pulley near the "
+"back of the extension. This is because the retraction will only retract "
+"to the farthest point, which generally is the spool. However, the spool "
+"may not be mounted at the very back of the robot - thus an extra pulley "
+"is needed. Note that for this to work, the extension string should be "
+"wrapped around the spool in the opposite direction of the retraction "
+"string. Thus, if the extension is wrapped clockwise, the retraction must "
+"be wrapped counterclockwise."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:27
+msgid "Here are some additional considerations when rigging a continuous system."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:29
+msgid ""
+"As a general rule, continuous spools can be powered by a system with a "
+"relatively low gear ratio."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:31
+msgid ""
+"The extension string and retraction string **do not need to be separate "
+"strings, but it is much easier to tension the system if they are "
+"separate**."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:33
+msgid "The extension spool and retraction spool should be the same diameter."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:34
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:112
+msgid ""
+"You need to make sure, as with any time you work with strings and "
+"pulleys, that you are pulling the string straight. Any amount of "
+"misalignment can lead to the string coming off of your pulley."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:36
+msgid ""
+"The width and diameter of your spool should be enough such that once "
+"fully wounded, your string never overlaps. The reason for this is because"
+" when the string starts to overlap, this can change the diameter of your "
+"spool, causing the tension in the string to change."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:45
+msgid "Continuous rigging diagram"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:48
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:117
+msgid "Cascade Rigging"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:52
+msgid ""
+"Cascade rigging is a bit more complicated than continuous rigging. Much "
+"like continuous rigging, an extension string originating from a spool is "
+"rigged to the top of the base, running down to the bottom of the first "
+"stage. However, instead of being rigged to the top of the stage, the "
+"extension string is anchored to the bottom of the first stage. A second "
+"extension string, anchored to the top of the base, is rigged to the top "
+"of the first stage and anchored at the bottom of the second stage. The "
+"pattern continues until all stages have been rigged."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:54
+msgid ""
+"The number of strings required to extend is equal to the number of stages"
+" in the system."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:56
+msgid ""
+"When the motor rotates one direction, the extension spool reels in the "
+"first string, decreasing the distance between the base and the bottom of "
+"the first stage. This pushes the second string forward, decreasing the "
+"distance between the top of the first stage and the bottom of the second "
+"stage, and so on. Note that unlike continuous rigging, **every stage "
+"moves at the same time**. The second stage moves 2 times as fast as the "
+"first stage relative to the base, the third 3 times as fast, and so on."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:58
+msgid ""
+"A cascaded system can be retracted in three ways: using continuous "
+"retraction, elastic retraction, or reverse-cascade retraction."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:61
+msgid "Retraction Options"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:64
+msgid "Continuous retraction"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:66
+msgid ""
+"As the name suggests, continuous retraction utilizes the same retraction "
+"method as continuous rigging with one notable difference: if the variable"
+" :math:`N` is the number of stages in the system, the diameter of the "
+"extension spool must be :math:`N` **times smaller** than the retraction "
+"spool."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:68
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:82
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:98
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:222
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:248
+msgid "Advantages:"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:70
+msgid ""
+"Requires less string (less strings to tension, less strings that can "
+"become loose)"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:73
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:87
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:102
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:228
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:253
+msgid "Disadvantages:"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:75
+msgid "Requires more space, as it demands a larger spool retraction spool"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:78
+msgid "Elastic retraction"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:80
+msgid ""
+"Instead of retracting using a retraction spool, one common way to retract"
+" is to attach a piece of elastic (commonly surgical tubing) to the last "
+"stage. The elastic applies a force on the last stage that is counteracted"
+" by the motor when extending. However, when retracting, the motor reels "
+"the last slide back in. While this is the retraction method recommended "
+"by many kit slide manuals, we do not recommend this method."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:84
+msgid ""
+"There is only one string to tension, instead of multiple, so tensioning "
+"is simpler."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:85
+msgid "The elastic automatically tensions the extension string."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:89
+msgid ""
+"Since the elastic applies a force to the slide at all times, this force "
+"opposes the force applied by the motor when extending the slides. **Thus,"
+" elastic retraction decreases extension speed considerably**."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:90
+msgid ""
+"The elastic does not apply a constant force at all times. It applies "
+"force proportional to the amount that the slide is extended, so "
+"retraction may not be smooth and controlled, like other rigging methods."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:91
+msgid ""
+"It is very easy to unwind your extension spool when using elastic "
+"retraction."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:94
+msgid "Cascade retraction"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:96
+msgid ""
+"Cascade retraction entails simply rigging another set of cascade string "
+"that can retract the system when engaged (see the image below)."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:100
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:250
+msgid "Very space-efficient"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:104
+msgid ""
+"Requires more string (less strings to tension, less strings that can "
+"become loose)"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:106
+msgid "Additional Considerations:"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:108
+msgid ""
+"If the system has only one stage, cascade rigging is **identical to "
+"continuous rigging**"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:109
+msgid ""
+"Unlike continuous rigging, each time a new stage is added to a cascaded "
+"system, the gear ratio required to maintain the same extension speed "
+"increases. For instance, if 2 stages are added to a 1 stage cascaded lift"
+" that is geared at a ratio of 3:1, the ratio must increase by a factor of"
+" :math:`\\frac{2+1}{1}` to maintain the same speed, changing the ratio to"
+" 9:1."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:110
+msgid ""
+"One disadvantage of cascade rigging is that each string must be kept "
+"tensioned. This is still the case with continuous rigging, but you have "
+"many more strings to keep track of, as tension must be maintained on all "
+"of them."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:122
+msgid ""
+"Continuous Rigging with a secondary method of retraction, where the "
+"string is with the slides instead of running down from the slides"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:125
+msgid "Belt-driven slides"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:127
+msgid ""
+"One increasingly popular alternative to traditional string-based rigging "
+"is belt-driven slides. This can be done continuously or using cascade "
+"rigging."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:130
+msgid "Advantages over string"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:132
+msgid ""
+"Unlike string, belts used on slides never need to be tensioned. As "
+"discussed in the linear motion section, in order for string-driven slides"
+" to remain efficient, string tension must be maintained. Naturally, "
+"string loosens over time, so you either need a mechanism that can provide"
+" extra tension (a spring) or manually tighten string, which can get a bit"
+" tedious (especially for cascade rigging)."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:134
+msgid ""
+"However, belts do not have this issue. They tend not to stretch over "
+"time, meaning complex external tensioners are rarely needed. Belts are "
+"also on an automatic one to one loop, meaning that for every inch you "
+"pull in on the extension side, you always feed back out that inch on the "
+"retraction side, and vise versa. While this might not seem like a big "
+"deal, if a string winds itself up on a spool and overlaps at any point, "
+"the diameter of the spool changes, making the two spools out of sync."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:137
+msgid "Disadvantages over string"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:139
+msgid ""
+"The main disadvantage of belt-driven slides is the amount of space they "
+"take up. Simply put, belt pulleys take up much more room than the 4mm "
+"thick, 12mm diameter pulley bearings REV sells. When using belt-driven "
+"slides, pulleys are at least double that thickness and have a "
+"considerably larger diameter, meaning each stage must be thicker."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:144
+msgid "7236 Recharged Green, Rover Ruckus, **continuous** rig"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:149
+msgid "11190 Mechadojos, Relic Recovery, continuous belt rig"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:154
+msgid ""
+"5064 Aperture Science Rover Ruckus **cascade** belt-driven proof of "
+"concept drawing"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:159
+msgid "5064 Aperture Science Rover Ruckus **cascade** belt-driven final version"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:162
+msgid "Belt or chain driven elevators"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:164
+msgid ""
+"Almost ubiquitous in FRC\\ |reg|, belt and chain elevators have existed "
+"seemingly forever. The basic premise is to have sprockets or pulleys "
+"mounted at the top and bottom of the elevator to the robot "
+"superstructure. Then, the belt or chain is hard bolted to the elevator "
+"near the bottom sprocket or pulley. When the chain or belt is driven, the"
+" elevator will move up and down. It is possible for elevators to have "
+"multi stage designs, but powering them will be more complex."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:169
+msgid "7236 Recharged Green, Rover Ruckus"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:172
+msgid "Tensioners"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:174
+msgid ""
+"Tensioning string is one of the most painstaking tasks for a builder in "
+"FTC. Ensuring that both sets of slides are tensioned evenly can be an "
+"arduous and annoying job. However, adding tensioners to your strings can "
+"help solve the uneven tension and ensure that both sides of slides run "
+"together. The most common type of tensioner is a spring that can be "
+"purchased at a hardware store. It generally will be placed at the end of "
+"the string run, near the part that extends farthest out from the robot’s "
+"center. By doing so, the string will stretch out when the spool extends "
+"the arm, keeping tension so that the string does not detach from the "
+"pulleys in the linear slide extension."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:176
+msgid ""
+"Another form of tensioner can be a spring-loaded pulley. Since the pulley"
+" is spring-loaded, it will take up the slack in the string. "
+"Alternatively, it is possible to mount a pulley on a piece of extrusion, "
+"and slide it so the string is taut."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:178
+msgid ""
+"There are two main reasons that tensioners are highly recommended in "
+"string based linear slides, the first and oftentimes more important one, "
+"is that at its core, a run of string is a series of polygons, and as the "
+"slide extends the effective size of that polygon changes. Meaning that "
+"when fully extended, your slide may require more or less string compared "
+"to when halfway extended. Or partially extended. The closer each set of "
+"bearings are, the less this impracts string tension."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:180
+msgid ""
+"Another (but less impactful) thing to keep in mind that spool size "
+"changes as string is added/removed from the spool. If the spool radius "
+"increases, the speed of the extension will also increase, and torque, "
+"which opposes speed, will decrease. Consequently, tension will change as "
+"well. Therefore, a bit of slack is inherent in all linear extension "
+"designs using string."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:182
+msgid ""
+"It is highly encouraged that teams have at least one spring tensioner per"
+" linear slide set."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:190
+msgid "13075 Coram Deo Robotics, Rover Ruckus, string tensioner"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:193
+msgid "Picking the right spool size"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:195
+msgid ""
+"Spools have a special property that isn’t often discussed, but is "
+"extremely useful when creating linear slide systems. Just as the system’s"
+" speed and torque can be changed by changing its gear ratio, speed and "
+"torque can also be changed by changing the spool size. The motor rotates "
+"the spool at a constant angular speed. Thus, the translational speed (the"
+" speed of the slide) is proportional to the radius of the spool, and "
+"since torque is inversely proportional to speed, changing the spool size "
+"changes torque as well."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:197
+msgid ""
+"This is important to recognize, as changing spool size is often more "
+"convenient than changing gear ratio to get the desired combination of "
+"speed and torque. To illustrate this, say you have a linear extension "
+"system with a 3.7:1 gear ratio. You then decide that a 5:1 gear ratio "
+"would provide a more desirable combination of speed and torque than your "
+"current 3.7:1 ratio."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:199
+msgid ""
+"In many cases, instead of swapping gearboxes, it makes more sense to swap"
+" out spools to a smaller one. If your spool is currently 2 inches, your "
+"new size should be :math:`\\frac{2*3.7}{5}` inches to achieve the same "
+"result."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:201
+msgid ""
+"You also need to make sure that when fully wrapped on the spool, your "
+"cable or string doesn’t overlap. Overlapping can result in a change in "
+"spool diameter, which will change the tension in your string."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:204
+msgid "Cable management"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:206
+msgid ""
+"When extending outwards, wire management becomes increasingly important. "
+"Obviously, it is a necessity to use wires slightly longer than the "
+"extension length. However, it is not recommended that these wires are "
+"left unprotected, as they can get tangled or caught in the slides much "
+"more easily than with protection."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:208
+msgid ""
+"In general, teams should ensure that wires never protrude outside the "
+"structural parts of the robot, because they can get caught on other "
+"robots or game pieces. This can be accomplished by cable ties or Velcro "
+"ties, or by using acrylic plate to keep wires inside."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:210
+msgid ""
+"However, for linear extensions, other forms of cable management are "
+"needed. The two types of cable management recommended are cable carrier "
+"and retractable coil cord. Refer to the :doc:`Electronics and Wiring "
+"</docs/power-and-electronics/index>` section for more information."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:213
+msgid "Cable Carrier/Drag Chain"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:215
+msgid ""
+"Cable carrier, the standard wire management method within industry, is "
+"plastic chain links with a hollow center. Cables are placed inside the "
+"chain, allowing the system to extend indefinitely. The links are somewhat"
+" stiff yet flexible, allowing cable chain to bend when the extension is "
+"retracted and straighten when extended. They typically are stiff enough "
+"not to sag excessively when retracted."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:217
+msgid "Here are some links to various drag chain products:"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:219
+msgid ""
+"`igus cable carrier <https://www.igus.com/info/energy-chains-e2-micro-"
+"small-cable-carrier>`_"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:220
+msgid ""
+"`uxcell 10x10mm drag chain, from Amazon <https://www.amazon.com/uxcell-"
+"InnerH-InnerW-Plastic-"
+"Carrier/dp/B01LX02PSW/ref=sr_1_1?keywords=drag%2Bchain&qid=1566188144&s=gateway&sr=8-1&th=1>`_"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:224
+msgid "Difficult to get tangled/hooked onto other objects or robots"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:225
+msgid "Sturdy and durable"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:226
+msgid "Protects wires very well"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:230
+msgid "Large form factor, takes up a lot of space"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:231
+msgid "Links need to be added if additional extension is needed"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:232
+msgid "Can be on the heavy side, especially with a long length of drag chain"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:237
+msgid ""
+"7236 Recharged Green, Rover Ruckus: Cable carrier on the left side of "
+"their horizontal slides and the right side of vertical slides"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:240
+msgid "Retractable Coil Cord"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:242
+msgid ""
+"While not common within industry, coil cords are still very common (coil "
+"cord is a nearly ubiquitous staple of older telephones). Retractable coil"
+" cord is more flexible than cable carriers, stretching when extended."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:244
+msgid "Here are some links to coil cord products:"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:246
+msgid ""
+"`Cable Science NEC (non-electric cord) "
+"<https://www.cablescience.com/coils/nec/nec-series.html>`_"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:251
+msgid ""
+"Flexible and can usually extend to any length needed (unlike cable "
+"carriers, no new links ever need to be added)"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:255
+msgid "Can get tangled more easily, as it is less stiff than drag chain"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/rigging.rst:263
+msgid ""
+"10030 7 Sigma Robotics, Relic Recovery: Coil-cord on horizontal extension"
+" mechanism"
+msgstr ""
+

@@ -1,0 +1,141 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:2
+msgid "Tips and Tricks"
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:4
+msgid ""
+"Below is a collection of tips and tricks on basic building. Some of them "
+"may seem obvious, but almost every FTC newbie made these mistakes at "
+"least once."
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:6
+msgid ""
+"**Color code your tools**. If you are using several different sizes of "
+"hex drivers (e.g. 2.5 mm and 3 mm used in goBILDA), color code them, "
+"using different color electric tape for different sizes."
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:7
+msgid ""
+"**Avoid set screws**. :term:`Set screws <Set Screw>` easily come loose, "
+"causing the hub to slip. In addition, :term:`set screws <Set Screw>` "
+"damage the :term:`axle <Shaft>`, sometimes making it very hard to remove "
+"the hub later. For these reasons, whenever possible, use :term:`clamping "
+"hubs <Clamping Hub>` and collars instead of :term:`set screw <Set Screw>`"
+" ones. If you must use set screw hubs, use a non-permanent threadlocker "
+"such as `Loctite blue <https://www.loctiteproducts.com/en/products"
+"/specialty-products/specialty/loctite_threadlockerblue242.html>`_ to "
+"prevent them from loosening."
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:8
+msgid ""
+"**Only use locknuts**. Never use regular nuts in your builds - they "
+"easily come loose under vibration. Kep nuts used in TETRIX are better, "
+"but they are still prone to loosening. For best results, always use "
+":term:`nylon locknuts <Locknut>`."
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:9
+msgid ""
+"**Do not use socket head screws on plastic**. Using socket head screws "
+"for attaching plastic parts (in particular, for attaching servos) damages"
+" the plastic. Use button head screws instead, or use socket head screws "
+"withwashers."
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:10
+msgid ""
+"**Make sure screws are not hitting anything**. When you are attaching a "
+"part, make sure the screw you are using is not longer than the depth of "
+"the threaded hole - otherwise, the screw will hit the bottom of the hole "
+"and you will be unable to tighten it properly."
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:12
+msgid ""
+"This situation commonly happens when attaching parts to a :term:`t-slot "
+"extrusion <Extrusion>` (Misumi, REV, goBILDA's goRAIL) - if the screw is "
+"too long, it will hit the bottom of the slot, and no matter how hard you "
+"try, you won't get a tight connection. Another case when this situation "
+"arises is when using attachment blocks where two screw holes intersect - "
+"if you are not careful, you could have one screw hitting another."
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:13
+msgid ""
+"**Do not connect two components which both have threaded holes**. To get "
+"tight connection, the screw should go through an **unthreaded** hole in "
+"one component into a **threaded** hole in another, or through two "
+"unthreaded holes into a nut."
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:14
+msgid ""
+"**Removing stripped screws**. A common problem is removing a screw in "
+"which the hex socket head is damaged or worn out and thus the regular hex"
+" driver doesn't provide enough holding power to loosen the screw. Here "
+"are some ways to deal with the problem."
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:16
+msgid ""
+"Get a better hex driver. Hex driver can also be worn out, especially ball"
+" head hex drivers. Get a new hex driver (not ball head), which is not yet"
+" worn out, and it might give you more traction with stubborn screws."
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:17
+msgid ""
+"Put a rubber band between the tip of the hex driver and the socket. This "
+"increases the traction."
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:18
+msgid ""
+"Use a hacksaw or a Dremel to cut a slot in the screw head, turning it "
+"into a slotted screw that can be removed using regular flat screwdriver."
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:19
+msgid "Use a `screw extractor <https://www.amazon.com/dp/B07GZ17QD9/>`_"
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:20
+msgid "If nothing works, drill it out."
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:21
+msgid ""
+"If that doesn't work, remember that a screw is not a screw if it is "
+"liquid metal. This is obviously not a very good idea. :)"
+msgstr ""
+
+#: ../../source/docs/hardware-components/tips-and-tricks.rst:23
+msgid ""
+"Needless to say, once you removed the damaged screw, discard it "
+"immediately - do not put it back in the box with other screws."
+msgstr ""
+

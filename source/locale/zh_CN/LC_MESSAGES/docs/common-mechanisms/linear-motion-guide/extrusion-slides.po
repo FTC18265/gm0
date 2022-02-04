@@ -1,0 +1,254 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:4
+msgid "Extrusion Slides"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:6
+msgid ""
+"Extrusion slides are made up of a stack of extrusions that extend by "
+"sliding along each other. There are two ways to make this happen: "
+"bushings or V-wheels. Bushing slides connect the two slides with two "
+"self-lubricating plastic pieces that slide smoothly along the slots in "
+"the extrusion. V-wheel slides have V-shaped groove bearings on both sides"
+" of the extrusion that bite intro grooves on the extrusion, allowing the "
+"stages to slide smoothly."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:8
+msgid ""
+"REV, Actobotics, and goBILDA all sell extrusion slide kits that integrate"
+" nicely with existing FTC kit parts. Beyond this, OpenBuilds sells a "
+"V-wheel extrusion slide kit suitable for heavier loads, and Misumi offers"
+" a few different sizes of bushing-based extrusion slides. REV furthermore"
+" sells a 8020 V-groove bearing slide kit for FRC\\ |reg|, that is not "
+"recommended for FTC use cases."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:10
+msgid ""
+"We recommend that newer teams using extrusion slides stick to kits "
+"designed for FTC instead of making their own."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:13
+msgid "REV Robotics 15mm Linear Motion Kit"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:15
+msgid ""
+"The `REV 15mm Linear Motion Kit "
+"<https://www.revrobotics.com/rev-45-1507/>`_ is based on the 15mm "
+"extrusion system. **This extrusion kit does not perform well without "
+"modification.** This has been partially remedied by REV as they have "
+"developed a second iteration of their slide kit, which has much better "
+"tolerances on the Delrin sliders."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:17
+msgid ""
+"Still, you’ll see some competitive teams use this kit with multiple "
+"modifications, such as adding lots of lubricant and mounting the sliders "
+"differently. Teams have also 3D printed their own sliders, though this is"
+" not a great idea for teams without much 3D printing experience. One of "
+"the biggest issues with the stock REV kit is the tendency of the slides "
+"to bind. Additionally, since the only thing attaching one extrusion to "
+"another is the plastic slider, the REV slides are not particularly "
+"sturdy, and require crossbeams to keep alignment."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:19
+msgid ""
+"Overall, this kit is lightweight, simple, and cheap. It can be a good "
+"start for teams using REV and needing a linear extension, and is "
+"generally usable out of the box. However, it is not very smooth and only "
+"achieves its maximum potential when modified and tweaked."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:22
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:59
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:82
+msgid "Advantages"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:24
+msgid "REV has complete guide on how to rig the linear slides"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:25
+msgid "Easily interfaces with REV building system"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:26
+msgid "Lightweight, should be used for light/medium loads only"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:27
+msgid "If tweaked, can be a very efficient linear slide"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:30
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:66
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:88
+msgid "Disadvantages"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:32
+msgid "Does not perform well out of the box"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:33
+msgid "Can flex under load, needs additional support"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:34
+msgid "May need some modifications such as custom sliders"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:42
+msgid "11115 Gluten Free, Rover Ruckus, custom REV slides"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:47
+msgid "8680 Kraken-Pinion, Rover Ruckus, REV slides"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:50
+msgid "Actobotics X-rail Slide Kit"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:52
+msgid ""
+"Actobotics' `X-rail Slide Kit <https://www.servocity.com/cascading-x"
+"-rail-slide-kit>`_ works well out of the box. However, the main caveat is"
+" that the kit has a **very low maximum load (2lb. at maximum "
+"extension)**."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:54
+msgid ""
+"Teams will have to keep their designs on this kit particularly "
+"lightweight. This slide uses elastic retraction through the use of "
+"surgical tubing, which means that instead of having both an extend and "
+"return string, there is a retraction force applied at all times. This "
+"helps simplify tensioning and spooling, however, limits how fast the "
+"slide can be run. Additionally, the plastic end caps have a reputation of"
+" breaking regularly because they endure shock load every time the slide "
+"extends to maximum. 3D printed alternatives may be more sturdy than the "
+"stock end caps."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:56
+msgid ""
+"It is highly recommended that teams add an additional set of v-groove "
+"bearings at the end of each piece of extrusion to give each stage an "
+"additional point of support. This will increase load capacity and "
+"possibly smoothness."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:61
+msgid "Easily interfaces with Actobotics building system"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:62
+msgid "Elastic retraction is a simple way to retract"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:63
+msgid "**Should be used for light/medium loads only**"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:68
+msgid "Will flex under load, needs additional support"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:69
+msgid ""
+"Elastic retraction slows down extension speed and retraction will be "
+"slower than string retraction"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:74
+msgid "12599 Overcharged, Relic Recovery, Actobotics X-Rail slides"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:77
+msgid "OpenBuilds Mini V Gantry Kit"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:79
+msgid ""
+"The `OpenBuilds Mini V Gantry Kit <https://openbuildspartstore.com/mini-v"
+"-gantry-kit/>`_ is designed for use with OpenBuilds' 20mm V-slot "
+"extrusion, which can be mounted to other build systems using M3 screws "
+"and sliding T nuts. OpenBuilds slides are used for high precision "
+"applications such as 3D printers and CNC machines and have a **much "
+"higher load capacity** than REV and Actobotics slides. OpenBuilds slides "
+"are also much heavier than REV and Actobotics slides, but because they "
+"are so strong they can be used in applications where two sets of lighter "
+"duty slides would otherwise be required. Out of the box, OpenBuilds "
+"slides are tailored to single-stage belt lifts, but they could easily be "
+"adapted to work for multi-stage or string lifts given some thought and "
+"additional parts."
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:84
+msgid "Sturdy, doesn't flex even under a lot of load"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:85
+msgid "Interfaces with most other build systems thanks to sliding T nuts"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:90
+msgid "Not designed for multi-stage lifts right out of the box"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:91
+msgid ""
+"**Heavy**, overkill for lifting lighter objects unless precision is "
+"important"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:92
+msgid ""
+"OpenBuilds only offers M3 and M5 T nuts, although other compatible sizes "
+"might be found on Amazon or McMaster-Carr"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:97
+msgid "4997 Masquerade, Cascade Effect, OpenBuilds slides"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:100
+msgid "goBILDA goRAIL"
+msgstr ""
+
+#: ../../source/docs/common-mechanisms/linear-motion-guide/extrusion-slides.rst:102
+msgid ""
+"`Linear motion guides <https://www.gobilda.com/gorail-based/>`_ are "
+"goBILDA’s take on linear motion using goRAIL, which is a type of "
+"extrusion compatible with V-groove bearings. Similar to a standard 8020 "
+"V-groove carriage, used in FRC, goRAIL is a lighter option that is better"
+" suited for FTC."
+msgstr ""
+

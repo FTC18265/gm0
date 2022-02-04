@@ -1,0 +1,244 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Game Manual 0 Contributors |  Hosting Graciously Provided By
+# //Copperforge
+# This file is distributed under the same license as the Game Manual 0
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 23:20-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/docs/know-your-lingo.rst:2
+msgid "Know Your Lingo"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:4
+msgid ""
+"Many teams may be unfamiliar with the various terms and slang that are "
+"often thrown around at competitions and meets. Here we have compiled a "
+"guide of some commonly used terms to get you up to speed."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:7
+msgid "Competitions"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:9
+msgid "Program Delivery Partner (PDP)"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:10
+msgid ""
+"Director or directors for events and activities in a region. Used to be "
+"referred to as the Affiliate Partner (AP)."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:11
+msgid "Qualifier"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:12
+msgid ""
+"Tournament with 5-6 qualifying matches and best-of-three alliance "
+"elimination matches. Judging included. Will advance to States/Regional "
+"level."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:13
+msgid "League Meet"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:14
+msgid ""
+"Low-stress tournament with matches counting towards league rank. No "
+"judging."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:15
+msgid "League Championship"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:16
+msgid ""
+"Tournament with ranked matches and alliance elimination matches. Judging "
+"included. Will advance to States/Regional level."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:17
+msgid "Alliance"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:18
+msgid ""
+"Group of two or, in eliminations, two or three teams that compete. In "
+"elimination matches each team must play at least once."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:21
+msgid "Ranking Points (RP)"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:20
+msgid ""
+"Primary basis in rankings. For the Ultimate Goal season, this is the sum "
+"of the scores that the alliances you are on at traditional events, and "
+"the sum of the scores that your team earns for remote events."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:27
+msgid "TieBreaker Points (TBP)"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:24
+msgid ""
+"Secondary determinant in team rankings. For the Ultimate Goal season, "
+"this is split up into two parts; TBP1 and TBP2. TBP1 is used before TBP2,"
+" and is the alliances/teams autonomous period score. TBP2 is the "
+"alliances/teams end game score. (Whether it is alliances/teams depends on"
+" if the team is at traditional events, respectively.)"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:30
+msgid "Qualification Match"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:30
+msgid ""
+"Qualifying matches (generally 5) with random alliance partners and "
+"opponents will be played to determine team rankings."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:34
+msgid "Elimination Match"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:33
+msgid ""
+"4 alliances of 2 or 3 teams each compete in best of 3 matches to "
+"determine winning alliance. Also known as elim matches, or just elims."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:37
+msgid "Robot Components"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:40
+msgid "DC Motor"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:40
+msgid ""
+"Open-loop :term:`RS-555 series <RS-550 Series Motor>` 12 volt motors used"
+" to power mechanisms. Max of 8."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:43
+msgid "Servo"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:43
+msgid ""
+"Closed-loop :term:`servo-motors <Servo>` used for precise movement. "
+"Controlled by PWM signals. Max of 12."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:45
+msgid "Drivetrain (DT)"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:46
+msgid "Mechanism responsible for the movement of the robot."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:48
+msgid "Intake"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:48
+msgid ""
+"Mechanism responsible for picking up game elements from the field by "
+"using rotational motion."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:50
+msgid "Claw"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:51
+msgid "Mechanism responsible for picking up game elements by grasping."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:53
+msgid "Linear Extension/Slide"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:53
+msgid ""
+"Mechanism responsible for extending parts beyond the starting "
+"configuration of the robot in a linear fashion."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:59
+msgid "REV Expansion Hub"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:56
+msgid ""
+"Hardware controller for the robot, connected to :term:`Robot Controller` "
+"phone. Controls 4 motor and encoders, 6 servos, and various sensors via "
+"digital, analog, and I2C ports. Maximum of 2 hubs."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:64
+msgid "REV Control Hub"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:62
+msgid ""
+"Integrated :term:`Expansion Hub` + :term:`Robot Controller` phone. It "
+"serves many of the same purposes as the :term:`Expansion Hub` but "
+"eliminates the need for a :term:`Robot Controller` phone. 1 Expansion Hub"
+" may be used along side 1 Control Hub."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:67
+msgid "Driver Station"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:67
+msgid ""
+"Android phone connected to the gamepad controller. Drivers interact with "
+"the DS phone to start/stop robot."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:70
+msgid "Robot Controller"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:70
+msgid ""
+"Android phone connected to the Expansion Hub. Connects to DS phone via "
+"WiFi-Direct."
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:75
+msgid "Gamepad Controller"
+msgstr ""
+
+#: ../../source/docs/know-your-lingo.rst:73
+msgid ""
+"An Xbox or PS4 style controller which the driver uses to control the "
+"robot during driver-control period. Maximum of 2."
+msgstr ""
+
