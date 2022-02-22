@@ -5,41 +5,48 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-03 23:20-0600\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-11 20:42-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../source/docs/contributing/contributors.rst:4
 msgid "Contributors"
-msgstr ""
+msgstr "贡献人员"
 
 #: ../../source/docs/contributing/contributors.rst:6
 msgid ""
-"|gm0| would not have been possible without the many contributors who have"
-" sacrificed their precious freetime (or merely found another excuse to "
-"procrastinate their work). I am especially grateful to Ben and Dan for "
-"helping port over |gm0| to Copperforge, and for all those who have "
-"continued to add and revise |gm0| during the busy school year. |gm0| had "
-"been my dream for quite some time, and as an alum tremendously grateful "
-"for all that *FIRST*\\ |reg| has taught me, I wanted to create |gm0| to "
-"preserve and spread the knowledge base that might have been lost with the"
-" FTC class of 2019 and beyond. For this reason, I wanted to recognize all"
-" the contributors who have helped to make |gm0| a great resource for "
-"*FIRST*\\ |reg| Tech Challenge teams. Feel free to contact any of the "
-"names listed below via the email (gamemanual0@gmail.com) or through the "
-"other contact emails - I’m sure that they would be more than willing to "
-"help you out!"
+"|gm0| would not have been possible without the many contributors who have "
+"sacrificed their precious freetime (or merely found another excuse to "
+"procrastinate their work). I am especially grateful to Ben and Dan for helping "
+"port over |gm0| to Copperforge, and for all those who have continued to add and "
+"revise |gm0| during the busy school year. |gm0| had been my dream for quite "
+"some time, and as an alum tremendously grateful for all that *FIRST*\\ |reg| "
+"has taught me, I wanted to create |gm0| to preserve and spread the knowledge "
+"base that might have been lost with the FTC class of 2019 and beyond. For this "
+"reason, I wanted to recognize all the contributors who have helped to make |"
+"gm0| a great resource for *FIRST*\\ |reg| Tech Challenge teams. Feel free to "
+"contact any of the names listed below via the email (gamemanual0@gmail.com) or "
+"through the other contact emails - I’m sure that they would be more than "
+"willing to help you out!"
 msgstr ""
+"如果没有许多贡献者牺牲了他们宝贵的业余时间（或者仅仅是找到了另一个借口来拖延他们"
+"的工作而已），|gm0|就不可能完工。我特别感谢本和丹帮助我将|gm0|移植到"
+"Copperforge，并感谢所有在繁忙的学业中抽出时间继续添加和修改|gm0|的人。完成|gm0|"
+"一直是我的梦想，作为一个校友，我非常感谢*FIRST* |reg|教给我的一切，我想创建|gm0|"
+"来保存和传播可能会随着FTC 2019级及以后的学习而丢失的知识库。出于这个原因，我想表"
+"彰所有帮助使|gm0|成为*FIRST* |reg|技术挑战团队的重要资源的贡献者。欢迎通过电子邮"
+"件（gamemanual0@gmail.com）或通过其他联系电子邮件与下面列出的任何名字联系--我相"
+"信在帮助你这件事上他们再愿意不过了！"
 
 #: ../../source/docs/contributing/contributors.rst:8
 msgid "**Kleptomaniac**"
@@ -47,85 +54,87 @@ msgstr ""
 
 #: ../../source/docs/contributing/contributors.rst:11
 msgid "Managing Editors"
-msgstr ""
+msgstr "管理编辑们"
 
 #: ../../source/docs/contributing/contributors.rst:13
 msgid "Tom - FTC Alum - 3736 Serious Business- seminole3736@gmail.com"
-msgstr ""
+msgstr "- Tom - FTC校友 - 3736 重要业务 - seminole3736@gmail.com"
 
 #: ../../source/docs/contributing/contributors.rst:14
 msgid "Daniel - FTC 7026 JDroids - dansman805@gmail.com"
-msgstr ""
+msgstr "- Daniel - FTC 7026 JDroids - dansman805@gmail.com"
 
 #: ../../source/docs/contributing/contributors.rst:15
 msgid "Frank - FTC 8581 Aedificatores - fgportman00@gmail.com"
-msgstr ""
+msgstr "- Frank - FTC 8581 Aedificatores - fgportman00@gmail.com"
 
 #: ../../source/docs/contributing/contributors.rst:16
 msgid "Justin - FTC 9656 Omega - ftc9656omega@gmail.com"
-msgstr ""
+msgstr "- Justin - FTC 9656 Omega - ftc9656omega@gmail.com"
 
 #: ../../source/docs/contributing/contributors.rst:17
 msgid ""
-"Nathanael/Kleptomaniac - FTC Alum - 13075 Coram Deo Robotics - "
-"nathanchu@utexas.edu"
+"Nathanael/Kleptomaniac - FTC Alum - 13075 Coram Deo Robotics - nathanchu@utexas."
+"edu"
 msgstr ""
+"- Nathanael/Kleptomaniac - FTC校友 - 13075 Coram DeoRobot -\n"
+"  nathanchu@utexas.edu"
 
 #: ../../source/docs/contributing/contributors.rst:18
 msgid "Davy - FTC 16461 Infinite Turtles - davy@mcr.club"
-msgstr ""
+msgstr "Davy - FTC 16461 Infinite Turtles - davy@mcr.club"
 
 #: ../../source/docs/contributing/contributors.rst:21
 msgid "Hardware & Electrical"
-msgstr ""
+msgstr "硬件与电子"
 
 #: ../../source/docs/contributing/contributors.rst:23
 msgid "Kelvin - FTC Alum - 731 Wannabee Strange"
-msgstr ""
+msgstr "Kelvin - FTC Alum - 731 Wannabee Strange"
 
 #: ../../source/docs/contributing/contributors.rst:24
 msgid "David - FTC Alum - 2753 Team Overdrive"
-msgstr ""
+msgstr "David - FTC Alum - 2753 Team Overdrive"
 
 #: ../../source/docs/contributing/contributors.rst:25
 msgid "Sam - FTC 2753 Team Overdrive"
-msgstr ""
+msgstr "Sam - FTC 2753 Team Overdrive"
 
 #: ../../source/docs/contributing/contributors.rst:26
 msgid "Tyler - FRC\\ |reg| 3184 Blaze Robotics"
-msgstr ""
+msgstr "Tyler - FRC\\ |reg| 3184 Blaze Robotics"
 
 #: ../../source/docs/contributing/contributors.rst:27
 msgid "Tom - FTC Alum - 3736 Serious Business"
-msgstr ""
+msgstr "Tom - FTC Alum - 3736 Serious Business"
 
 #: ../../source/docs/contributing/contributors.rst:28
 msgid "Shurik - FTC 4137 Islandbots mentor"
-msgstr ""
+msgstr "Shurik - FTC 4137 Islandbots mentor"
 
 #: ../../source/docs/contributing/contributors.rst:29
 msgid "Fulton - FTC 5143 Xcentrics"
-msgstr ""
+msgstr "Fulton - FTC 5143 Xcentrics"
 
 #: ../../source/docs/contributing/contributors.rst:30
 msgid "Derek - FTC Alum - 5484 EnderBots"
-msgstr ""
+msgstr "Derek - FTC Alum - 5484 EnderBots"
 
 #: ../../source/docs/contributing/contributors.rst:31
 msgid "Karter - FTC Alum - 5975 Cybots"
-msgstr ""
+msgstr "Karter - FTC Alum - 5975 Cybots"
 
 #: ../../source/docs/contributing/contributors.rst:32
 msgid "Neo - FTC 6710 Sigmas"
-msgstr ""
+msgstr "Neo - FTC 6710 Sigmas"
 
 #: ../../source/docs/contributing/contributors.rst:33
 msgid "Ethan - FTC Alum - 7236 Recharged Green - goBILDA"
-msgstr ""
+msgstr "Ethan - FTC Alum - 7236 Recharged Green - goBILDA"
 
 #: ../../source/docs/contributing/contributors.rst:34
 msgid "Cole - FTC 7548 SPAREPARTS"
-msgstr ""
+msgstr "Cole - FTC 7548 SPAREPARTS"
 
 #: ../../source/docs/contributing/contributors.rst:35
 msgid "Ian - FTC 7842 Browncoats"
@@ -211,4 +220,3 @@ msgstr ""
 #: ../../source/docs/contributing/contributors.rst:62
 msgid "Benjamin Ward - FRC\\ |reg|/FTC Alum - Copperforge - blward@copperforge.cc"
 msgstr ""
-

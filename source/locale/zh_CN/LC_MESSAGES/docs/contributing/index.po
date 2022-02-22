@@ -5,90 +5,104 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-03 23:20-0600\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-11 20:51-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../source/docs/contributing/index.rst:2
 msgid "Contributor's Guide"
-msgstr ""
+msgstr "创作者指南"
 
 #: ../../source/docs/contributing/index.rst:5
 msgid "Introduction"
-msgstr ""
+msgstr "简介"
 
 #: ../../source/docs/contributing/index.rst:7
 msgid ""
-"Hello, and thank you for taking the time to consider contributing to "
-"|gm0|. Your knowledge and contributions will help many other teams, and "
+"Hello, and thank you for taking the time to consider contributing to |"
+"gm0|. Your knowledge and contributions will help many other teams, and "
 "improve |gm0| as a universal resource. This document is designed to give "
 "a basic overview of contributing to |gm0|."
 msgstr ""
+"你好，感谢你花时间为|gm0|作出贡献。你的知识与贡献将帮助许多其他团队，并帮"
+"助|gm0|成为一个广泛的资源。本文件将概括|gm0|创作过程的基本状况。"
 
 #: ../../source/docs/contributing/index.rst:10
 msgid "Who can contribute?"
-msgstr ""
+msgstr "谁可以做出贡献？"
 
 #: ../../source/docs/contributing/index.rst:12
 msgid ""
-"|gm0| welcomes contributions from basically anybody. The majority of this"
-" guide was written by accomplished students of FTC from a wide variety of"
-" teams, alongside mentors and alums. Our editorial control is based "
-"purely on content, as long as the content is good, it’ll be added to "
-"|gm0|."
+"|gm0| welcomes contributions from basically anybody. The majority of "
+"this guide was written by accomplished students of FTC from a wide "
+"variety of teams, alongside mentors and alums. Our editorial control is "
+"based purely on content, as long as the content is good, it’ll be added "
+"to |gm0|."
 msgstr ""
+"|gm0|欢迎所有人的贡献。本指南的大部分内容来自不同团队有成就的FTC学生、导"
+"师和校友编写的。我们的编辑标准完全基于内容，只要内容好，就会被添加到|gm0|"
+"中。"
 
 #: ../../source/docs/contributing/index.rst:15
 msgid "Goals of |gm0|"
-msgstr ""
+msgstr "gm0的目标"
 
 #: ../../source/docs/contributing/index.rst:17
 msgid ""
 "Before writing, please take the time to familiarize yourself with the "
 "goals of |gm0|. The primary goals are:"
-msgstr ""
+msgstr "在开始之前，请花些时间熟悉一下|gm0|的目标。主要的目标是："
 
 #: ../../source/docs/contributing/index.rst:19
 msgid ""
 "To inform and guide newer teams, participants, and coaches of the FIRST "
 "Tech Challenge and help them achieve their competitive goals."
 msgstr ""
+"为FIRST科技挑战赛的新团队、参赛者和教练提供有效的信息和指导，帮助他们实现"
+"竞争目标。"
 
 #: ../../source/docs/contributing/index.rst:20
 msgid ""
 "To act as a living reference for mechanisms, techniques, and community "
 "knowledge pertinent to FIRST Tech Challenge."
-msgstr ""
+msgstr "作为与FIRST技术挑战赛有关的机制、技术和社区知识的参考"
 
 #: ../../source/docs/contributing/index.rst:22
 msgid ""
 "These goals may seem relatively self-explanatory, but they have several "
 "important takeaways."
-msgstr ""
+msgstr "这些目标可能看起来相对不言自明，但它们有几个重要的启示。"
 
 #: ../../source/docs/contributing/index.rst:24
 msgid ""
 "**These goals do not necessarily build upon each other.** For example, "
-"let’s look at the :doc:`/docs/robot-design/drivetrains/index` section. If"
-" we want to simply guide more rookie teams on a path to become "
+"let’s look at the :doc:`/docs/robot-design/drivetrains/index` section. "
+"If we want to simply guide more rookie teams on a path to become "
 "successful, we would discuss the very popular drivetrains that teams may "
 "encounter (2WD, 4WD, 6WD, mecanum, X-Drive, and H-Drive) so that teams "
-"can quickly get up to speed and choose a competitive drivetrain. However,"
-" if the goal is to be a comprehensive reference, we would include every "
-"single possible drivetrain ever created for FTC, even if they aren’t very"
-" competitive or realistic for newer teams to build (swerve, ball, "
-"octocanum, etc)."
+"can quickly get up to speed and choose a competitive drivetrain. "
+"However, if the goal is to be a comprehensive reference, we would "
+"include every single possible drivetrain ever created for FTC, even if "
+"they aren’t very competitive or realistic for newer teams to build "
+"(swerve, ball, octocanum, etc)."
 msgstr ""
+"- **这些目标不一定是相互建立的。**例如，让我们看一下:doc:`/docs/robot-"
+"design/drivetrains/index`部分。如果我们想简单地引导更多的新手团队走上成功"
+"之路，我们将会讨论团队可能遇到的非常流行的传动系统（2WD、4WD、6WD、"
+"mecanum、X-Drive和H-Drive），以便团队能够快速上手，选择更具有竞争力的系"
+"统。然而，如果目标是成为一个全面的参考，我们将包括有史以来为FTC创造的每一"
+"个有可能的传动系统，即使它们不是很有竞争力，或对新的团队来说不现实"
+"（swerve, ball, octocanum等）。"
 
 #: ../../source/docs/contributing/index.rst:26
 msgid ""
@@ -97,6 +111,9 @@ msgid ""
 "designed for rookies, while pages outside this list can act as more "
 "comprehensive references."
 msgstr ""
+"- 我们正在寻求用一个新的布局来实现这两个目标：将有一个专门为新手建立的页"
+"面，它将链接跳转到一个为新手们设计的页面列表，而这个列表之外的页面将作为"
+"更全面的参考。"
 
 #: ../../source/docs/contributing/index.rst:27
 msgid ""
@@ -104,6 +121,8 @@ msgid ""
 "“For Rookies” page in mind while writing, and adjust the content "
 "accordingly."
 msgstr ""
+"- 在书写时，请牢记该页面的目标以及它是否被置放在新手页面上，并合理地调整"
+"内容。"
 
 #: ../../source/docs/contributing/index.rst:29
 msgid ""
@@ -112,6 +131,9 @@ msgid ""
 "scored by a team while working inside a team’s limitations, and building "
 "good technical habits that will be useful in a future career."
 msgstr ""
+"- **《游戏手册0》是一本从竞技角度出发的指南。**总的来说，我们的建议的最终"
+"目标是在团队的限制范围内工作，增加团队的得分，并建立良好的技术习惯，这在"
+"未来的职业生涯中对我们会有帮助。"
 
 #: ../../source/docs/contributing/index.rst:30
 msgid ""
@@ -120,20 +142,29 @@ msgid ""
 "seeks to present teams with a variety of options, with a pros and cons "
 "list of each, and let teams make their own decisions for their own "
 "circumstances. If recommendations are given, they must be based on "
-"objective, repeatable reasoning. For more information on this, read the "
-":doc:`style-guide`."
+"objective, repeatable reasoning. For more information on this, read the :"
+"doc:`style-guide`."
 msgstr ""
+"**《游戏手册0》旨在提供信息，而不是告诉你。**|gm0|并不希望鼓励一种 \"元 "
+"\"设计或一系列技术，相反，本指南为团队提供各种选择，并列出每种选择的利"
+"弊，让各团队根据自己的情况做出决定。如果给出建议，它们必须基于客观、可重"
+"复的推理。关于这方面的更多信息，请阅读 :doc:`style-guide`。"
 
 #: ../../source/docs/contributing/index.rst:32
 msgid ""
 "**Game Manual 0 is generally a high level concept guide.** This means "
-"that information is given in a way that is applicable to many situations,"
-" rather than a series of steps. However, when possible we link to "
-"external documentation to plug any knowledge gaps. For example: in the "
-"electronics sections, we do not discuss how to exactly wire the robot "
-"using the REV control system, instead we link to the REV documentation "
-"for exact wiring and discuss general wiring best practices."
+"that information is given in a way that is applicable to many "
+"situations, rather than a series of steps. However, when possible we "
+"link to external documentation to plug any knowledge gaps. For example: "
+"in the electronics sections, we do not discuss how to exactly wire the "
+"robot using the REV control system, instead we link to the REV "
+"documentation for exact wiring and discuss general wiring best practices."
 msgstr ""
+"- **《游戏手册0》通常是一个高标准的概念指南。**这意味着所提供的信息适用于"
+"多种情况，而非一系列的步骤。然而，在可能的情况下，我们会链接到外部文档以"
+"填补任何知识空白。例如：在电子部分，我们并没有讨论如何准确地使用REV控制系"
+"统为机器人布线，而是链接到REV文档以了解准确的布线，并讨论一般的布线最佳做"
+"法。"
 
 #: ../../source/docs/contributing/index.rst:35
 msgid "Getting Started Contributing"
@@ -149,13 +180,11 @@ msgstr ""
 
 #: ../../source/docs/contributing/index.rst:39
 msgid ""
-"Review the `Project List "
-"<https://docs.google.com/document/d/1_o7SoUFs6OznR0U07-Mxr5CLdYmKN-"
-"NuU7TiQX8nL6A/edit>`_ and `GitHub issues "
-"<https://github.com/gamemanual0/gm0/issues>`_"
+"Review the `Project List <https://docs.google.com/document/"
+"d/1_o7SoUFs6OznR0U07-Mxr5CLdYmKN-NuU7TiQX8nL6A/edit>`_ and `GitHub "
+"issues <https://github.com/gamemanual0/gm0/issues>`_"
 msgstr ""
 
 #: ../../source/docs/contributing/index.rst:40
 msgid "Check out the :doc:`methods-of-contributing`"
 msgstr ""
-
