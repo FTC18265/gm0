@@ -5,27 +5,28 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
+"Project-Id-Version: Game Manual 0 0.1.1-269-"
+"g028ca04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-03 23:20-0600\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-22 21:26-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../source/docs/appendix/license.rst:2
 msgid "License"
-msgstr ""
+msgstr "许可证"
 
 #: ../../source/docs/appendix/license.rst:4
 msgid ""
 "Game Manual 0 is licensed under `CC BY-NC 2.0 "
-"<https://github.com/gamemanual0/gm0/blob/main/LICENSE>`_."
+"<https://github.com/gamemanual0/gm0/blob/main/"
+"LICENSE>`_."
 msgstr ""
-

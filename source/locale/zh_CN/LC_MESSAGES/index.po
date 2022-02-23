@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-03 23:20-0600\n"
-"PO-Revision-Date: 2022-02-11 20:22-0600\n"
+"PO-Revision-Date: 2022-02-22 21:20-0600\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -87,33 +87,33 @@ msgstr "3D打印时应用哪种材料"
 
 #: ../../source/index.rst:54
 msgid "Electronics and Motion Components"
-msgstr ""
+msgstr "电子与机械动力部件"
 
 #: ../../source/index.rst:56
 msgid "Covers wiring, the control system, motors, servos, and sensors."
-msgstr ""
+msgstr "涵盖接线、控制系统、电机、伺服马达和传感器。"
 
 #: ../../source/index.rst:62
 msgid "Software"
-msgstr ""
+msgstr "软件"
 
 #: ../../source/index.rst:64
 msgid "Covers a range of software topics."
-msgstr ""
+msgstr "涵盖一系列软件主题。"
 
 #: ../../source/index.rst:70
 msgid "Useful Resources"
-msgstr ""
+msgstr "丰富的资源"
 
 #: ../../source/index.rst:72
 msgid ""
 "A list of useful resources and accompanying descriptions, with "
 "especially pertinent ones marked."
-msgstr ""
+msgstr "丰富的资源列表和附着的说明，并标记相关的资源。"
 
 #: ../../source/index.rst:79
 msgid "Awards"
-msgstr ""
+msgstr "奖项"
 
 #: ../../source/index.rst:81
 msgid ""
@@ -121,21 +121,23 @@ msgid ""
 "FTC---this section covers what each award is for and some general "
 "Engineering Notebook tips."
 msgstr ""
+"虽然|gm0|的重点关注在机器人上，奖项是FTC的重要组成部分---本章节涵盖了每个"
+"奖项的用途以及一些工程笔记本提示概括。"
 
 #: ../../source/index.rst:87
 msgid "Know Your Lingo"
-msgstr ""
+msgstr "了解您的行话"
 
 #: ../../source/index.rst:89
 msgid "A list of commonly used FTC slang and their meanings."
-msgstr ""
+msgstr "常见的FTC用语列表及其含义。"
 
 #: ../../source/index.rst:95
 msgid "Appendix"
-msgstr ""
+msgstr "附录"
 
 #: ../../source/index.rst:97
 msgid ""
 "Contains a glossary, a robot design gallery, and information about "
 "specific vendors."
-msgstr ""
+msgstr "包含术语表，机器人设计图库，和特定供应商的信息。"

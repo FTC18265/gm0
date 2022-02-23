@@ -5,23 +5,23 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-03 23:20-0600\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-22 21:23-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../source/docs/start-here.rst:2
 msgid "Start Here"
-msgstr ""
+msgstr "一切的起点"
 
 #: ../../source/docs/start-here.rst:12
 msgid "Useful Resources"
@@ -29,8 +29,8 @@ msgstr ""
 
 #: ../../source/docs/start-here.rst:14
 msgid ""
-"A list of useful resources and accompanying descriptions, with especially"
-" pertinent ones marked."
+"A list of useful resources and accompanying descriptions, with "
+"especially pertinent ones marked."
 msgstr ""
 
 #: ../../source/docs/start-here.rst:20
@@ -40,9 +40,9 @@ msgstr ""
 #: ../../source/docs/start-here.rst:22
 msgid ""
 "The **unofficial** FTC Discord server is a discussion-based community "
-"server that has teams ranging from first-year rookies to Winning Alliance"
-" Captains at the World Championships. It also has a channel for direct "
-"access to vendors."
+"server that has teams ranging from first-year rookies to Winning "
+"Alliance Captains at the World Championships. It also has a channel for "
+"direct access to vendors."
 msgstr ""
 
 #: ../../source/docs/start-here.rst:25
@@ -73,9 +73,9 @@ msgstr ""
 
 #: ../../source/docs/start-here.rst:53
 msgid ""
-"Because it doesn't matter how good the rest of your mechanisms are if the"
-" robot cannot get to where it needs to be (except maybe if you're 8813 in"
-" Relic Recovery)."
+"Because it doesn't matter how good the rest of your mechanisms are if "
+"the robot cannot get to where it needs to be (except maybe if you're "
+"8813 in Relic Recovery)."
 msgstr ""
 
 #: ../../source/docs/start-here.rst:59
@@ -150,7 +150,6 @@ msgstr ""
 
 #: ../../source/docs/start-here.rst:125
 msgid ""
-"Explains the different common computer vision systems and how to use them"
-" (hopefully this doesn't end with a robot uprising)."
+"Explains the different common computer vision systems and how to use "
+"them (hopefully this doesn't end with a robot uprising)."
 msgstr ""
-

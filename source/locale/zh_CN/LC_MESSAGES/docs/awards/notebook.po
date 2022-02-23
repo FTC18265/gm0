@@ -5,29 +5,29 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-03 23:20-0600\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-22 21:29-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../source/docs/awards/notebook.rst:2
 msgid "Notebook Designs and Decisions"
-msgstr ""
+msgstr "记录簿"
 
 #: ../../source/docs/awards/notebook.rst:4
 msgid ""
 "This section will cover both what needs to be in the notebook and the "
-"decisions you need to make about it affecting both individual sections "
-"and it as a whole."
+"decisions you need to make about it affecting both individual sections and it "
+"as a whole."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:7
@@ -40,32 +40,32 @@ msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:12
 msgid ""
-"A trap many teams fall into is that a longer notebook is a better "
-"notebook, especially if it's actually quality writing. Unfortunately, "
-"that is not necessarily true."
+"A trap many teams fall into is that a longer notebook is a better notebook, "
+"especially if it's actually quality writing. Unfortunately, that is not "
+"necessarily true."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:14
 msgid ""
 "At shorter competitions, judges don't have a lot of time to read your "
-"notebooks. They will likely take a cursory scan at every page and take a "
-"more detailed look at certain pages. Thus, even if you do write a great "
-"but long notebook, they might miss the highlights and rank you lower than"
-" you should have. The solution to this is to create a condensed notebook."
+"notebooks. They will likely take a cursory scan at every page and take a more "
+"detailed look at certain pages. Thus, even if you do write a great but long "
+"notebook, they might miss the highlights and rank you lower than you should "
+"have. The solution to this is to create a condensed notebook."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:16
 msgid ""
-"This is where you make a purposeful effort to get rid of redundancies and"
-" make sure everything written in the notebook serves the purpose of being"
-" read and getting things checked off of awards."
+"This is where you make a purposeful effort to get rid of redundancies and make "
+"sure everything written in the notebook serves the purpose of being read and "
+"getting things checked off of awards."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:18
 msgid ""
-"So if you know your state competitions are going to be more than a couple"
-" of days, write a long, detailed filled notebook. But if it is only a day"
-" long, write with every section having a purpose."
+"So if you know your state competitions are going to be more than a couple of "
+"days, write a long, detailed filled notebook. But if it is only a day long, "
+"write with every section having a purpose."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:21
@@ -75,10 +75,10 @@ msgstr ""
 #: ../../source/docs/awards/notebook.rst:23
 msgid ""
 "This one is a team decision. Some teams swear judges prefer handwritten "
-"notebooks, but there is no proof for that. But if you're a small team or "
-"you would prefer to write, do that. Be sure that the handwriting is "
-"consistent and legible! Typed notebooks are a lot easier to organize, and"
-" judges will definitely be able to read them."
+"notebooks, but there is no proof for that. But if you're a small team or you "
+"would prefer to write, do that. Be sure that the handwriting is consistent and "
+"legible! Typed notebooks are a lot easier to organize, and judges will "
+"definitely be able to read them."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:26
@@ -87,36 +87,34 @@ msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:28
 msgid ""
-"A team's notebook is an extension of its personality and branding. Some "
-"teams try to come across as an engineering firm or at least very serious,"
-" while others act the opposite."
+"A team's notebook is an extension of its personality and branding. Some teams "
+"try to come across as an engineering firm or at least very serious, while "
+"others act the opposite."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:30
 msgid ""
-"You should try and reflect that in your notebook. Neither way is better, "
-"but it's good early on to figure out your team's way of acting and "
-"writing in a manner that fits it."
+"You should try and reflect that in your notebook. Neither way is better, but "
+"it's good early on to figure out your team's way of acting and writing in a "
+"manner that fits it."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:32
 msgid ""
-"Generally, humor is acceptable, but try to keep jokes down to a minimum "
-"(after all, the engineering notebook is meant to be a professional-grade "
-"document)."
+"Generally, humor is acceptable, but try to keep jokes down to a minimum (after "
+"all, the engineering notebook is meant to be a professional-grade document)."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:36
 msgid ""
-"Having a consistent team brand is important so judges remember you. A "
-"large amount of winning awards is being remembered and advocated for by "
-"the judges."
+"Having a consistent team brand is important so judges remember you. A large "
+"amount of winning awards is being remembered and advocated for by the judges."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:38
 msgid ""
-"Therefore, having consistent branding helps judges know what team they "
-"are talking to and what they know about you."
+"Therefore, having consistent branding helps judges know what team they are "
+"talking to and what they know about you."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:41
@@ -125,8 +123,8 @@ msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:43
 msgid ""
-"Section 9.2.2 of |gm1|, lists out the type of things that are expected to"
-" see in your notebook."
+"Section 9.2.2 of |gm1|, lists out the type of things that are expected to see "
+"in your notebook."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:45
@@ -183,14 +181,13 @@ msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:60
 msgid ""
-"Specific sections named in |gm1|, the Judges Manual, and Notebook "
-"Guidelines are not plentiful, only including a team plan (which is pretty"
-" much all non robot writing including a sustainability plan, a strategic "
-"plan, and a business plan all fall into it, and doing one of these "
-"sections is required for Inspire award) and telling us what they want in "
-"the notebook (listed above). It falls to the individual notebook writers "
-"to figure out what they specifically want to call each section and what "
-"to put in each section."
+"Specific sections named in |gm1|, the Judges Manual, and Notebook Guidelines "
+"are not plentiful, only including a team plan (which is pretty much all non "
+"robot writing including a sustainability plan, a strategic plan, and a "
+"business plan all fall into it, and doing one of these sections is required "
+"for Inspire award) and telling us what they want in the notebook (listed "
+"above). It falls to the individual notebook writers to figure out what they "
+"specifically want to call each section and what to put in each section."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:63
@@ -199,15 +196,14 @@ msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:65
 msgid ""
-"This might be the most common way of documenting in notebooks. Even teams"
-" that are so-so about attempting to write a notebook have a couple months"
-" worth of logs because overall they are not that hard to do."
+"This might be the most common way of documenting in notebooks. Even teams that "
+"are so-so about attempting to write a notebook have a couple months worth of "
+"logs because overall they are not that hard to do."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:67
 msgid ""
-"Each team approaches it differently, but a standard approach is as "
-"follows."
+"Each team approaches it differently, but a standard approach is as follows."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:69
@@ -253,12 +249,12 @@ msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:83
 msgid ""
-"There are other methods such as weekly, pure goals, or other engineering "
-"based methods such as agile (if you pursue the latter you can use those "
-"hard won mentors you have gotten). Weekly or bi-weekly is the same as "
-"above, but the date becomes a range and you talk about what happened over"
-" that period of time. This is better for a team that has only a couple of"
-" people doing the logs because overall logs get more and more tedious."
+"There are other methods such as weekly, pure goals, or other engineering based "
+"methods such as agile (if you pursue the latter you can use those hard won "
+"mentors you have gotten). Weekly or bi-weekly is the same as above, but the "
+"date becomes a range and you talk about what happened over that period of "
+"time. This is better for a team that has only a couple of people doing the "
+"logs because overall logs get more and more tedious."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:85
@@ -315,26 +311,26 @@ msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:100
 msgid ""
-"You have spent a bunch of time reading the rest of this manual to learn "
-"about the robot and how to build it. The building section is about how "
-"your robot fulfills the challenge, and what the driving factors were in "
-"building your robot."
+"You have spent a bunch of time reading the rest of this manual to learn about "
+"the robot and how to build it. The building section is about how your robot "
+"fulfills the challenge, and what the driving factors were in building your "
+"robot."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:102
 msgid ""
-"Information about parts and materials, as well as pictures of every "
-"mechanism (plus captions) will help the judges piece together how the "
-"robot works mechanically. Explanations of the components will illustrate "
-"the thought processes behind the design."
+"Information about parts and materials, as well as pictures of every mechanism "
+"(plus captions) will help the judges piece together how the robot works "
+"mechanically. Explanations of the components will illustrate the thought "
+"processes behind the design."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:104
 msgid ""
-"Ample graphics (CAD screenshots/renders, pictures, etc.) will help judges"
-" understand how it works and why it is useful. **However, make sure that "
-"each graphic has a caption or explanation. Do not expect judges to "
-"understand how your robot works through pictures only.**"
+"Ample graphics (CAD screenshots/renders, pictures, etc.) will help judges "
+"understand how it works and why it is useful. **However, make sure that each "
+"graphic has a caption or explanation. Do not expect judges to understand how "
+"your robot works through pictures only.**"
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:106
@@ -343,24 +339,24 @@ msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:108
 msgid ""
-"The second part is much more documentation and writing heavy, but in some"
-" ways it is easier. As you are building a robot, you will not get your "
-"final bot in the first attempt."
+"The second part is much more documentation and writing heavy, but in some ways "
+"it is easier. As you are building a robot, you will not get your final bot in "
+"the first attempt."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:110
 msgid ""
-"Think about telling a story of how your team progressed from brainstorm "
-"and idea conception to prototyping and final design. The judges *love* to"
-" follow a logical sequence of steps as it shows how the team thought "
-"through mistakes and improved upon successes."
+"Think about telling a story of how your team progressed from brainstorm and "
+"idea conception to prototyping and final design. The judges *love* to follow a "
+"logical sequence of steps as it shows how the team thought through mistakes "
+"and improved upon successes."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:112
 msgid ""
-"Each time you iterate upon a part of your robot or move a step further in"
-" the engineering design process, document it. Important questions to ask "
-"while writing this section are below."
+"Each time you iterate upon a part of your robot or move a step further in the "
+"engineering design process, document it. Important questions to ask while "
+"writing this section are below."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:114
@@ -385,8 +381,8 @@ msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:120
 msgid ""
-"This also includes your first unrealized ideas that your team talked "
-"about right when the team came together after the season was released."
+"This also includes your first unrealized ideas that your team talked about "
+"right when the team came together after the season was released."
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:123
@@ -399,8 +395,8 @@ msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:127
 msgid ""
-"`4042 <https://drive.google.com/file/d/10TQJd4ioArq-asmswHneY9S-"
-"_okcr5vq/view>`_"
+"`4042 <https://drive.google.com/file/d/10TQJd4ioArq-asmswHneY9S-_okcr5vq/"
+"view>`_"
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:128
@@ -409,8 +405,8 @@ msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:130
 msgid ""
-"`9794 "
-"<https://drive.google.com/file/d/1qwtWxqy3eQ7hpiGFmD433G6NOsZ74guo/view>`_"
+"`9794 <https://drive.google.com/file/d/1qwtWxqy3eQ7hpiGFmD433G6NOsZ74guo/"
+"view>`_"
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:131
@@ -429,19 +425,18 @@ msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:135
 msgid ""
-"`8813 Design Notebook "
-"<https://docs.google.com/document/d/1GedNbBgpffHRdZdgFTL2-qsATb4Zrg9NDpWnJrWLZ-M/edit>`_"
+"`8813 Design Notebook <https://docs.google.com/document/"
+"d/1GedNbBgpffHRdZdgFTL2-qsATb4Zrg9NDpWnJrWLZ-M/edit>`_"
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:136
 msgid ""
-"`9656 Technical Binder "
-"<https://docs.google.com/document/d/1vNHSydZbP434VDVAdoqnoWFLOlDnErbDbVGmIFsGc58/edit>`_"
+"`9656 Technical Binder <https://docs.google.com/document/"
+"d/1vNHSydZbP434VDVAdoqnoWFLOlDnErbDbVGmIFsGc58/edit>`_"
 msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:137
 msgid ""
-"`9656 Non-Technical Binder "
-"<https://docs.google.com/document/d/1qCutM4_qDffwtt5spxjaUO4TVgqlh0ORxaIAm079_a4/edit>`_"
+"`9656 Non-Technical Binder <https://docs.google.com/document/"
+"d/1qCutM4_qDffwtt5spxjaUO4TVgqlh0ORxaIAm079_a4/edit>`_"
 msgstr ""
-

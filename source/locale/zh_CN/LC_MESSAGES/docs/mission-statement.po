@@ -5,23 +5,23 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-03 23:20-0600\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-22 21:22-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../source/docs/mission-statement.rst:8
 msgid "Mission Statement"
-msgstr ""
+msgstr "使命宣言"
 
 #: ../../source/docs/mission-statement.rst:10
 msgid ""
@@ -58,11 +58,11 @@ msgid ""
 "there is a competitive advantage to one does not translate into a "
 "learning disadvantage for the other. The guide has a plethora of useful "
 "information and knowledge (such as FTC and basic engineering principles) "
-"for all teams, including teams which are primarily trying to learn rather"
-" than compete. However, do take our recommendations with a grain of salt."
-" We want to help all teams in FTC, but as our experience has been on the "
-"competitive side of the fence, certain parts of the guide may not be very"
-" applicable to some teams."
+"for all teams, including teams which are primarily trying to learn "
+"rather than compete. However, do take our recommendations with a grain "
+"of salt. We want to help all teams in FTC, but as our experience has "
+"been on the competitive side of the fence, certain parts of the guide "
+"may not be very applicable to some teams."
 msgstr ""
 
 #: ../../source/docs/mission-statement.rst:16
@@ -71,12 +71,12 @@ msgid ""
 "first year rookie teams who have just begun their journey in FTC. "
 "Undoubtedly there is information in the guide that could benefit nearly "
 "every team (it’s impossible to know everything about FTC) - but our "
-"recommendations are geared for the more inexperienced teams. For example,"
-" we generally discourage teams from using arms and instead use linear "
-"extensions. However, there are many experienced teams with the capability"
-" to build such arms, and we do not discourage such an endeavor. Keep on "
-"the lookout, though - a future version of the guide for veterans may "
-"appear."
+"recommendations are geared for the more inexperienced teams. For "
+"example, we generally discourage teams from using arms and instead use "
+"linear extensions. However, there are many experienced teams with the "
+"capability to build such arms, and we do not discourage such an "
+"endeavor. Keep on the lookout, though - a future version of the guide "
+"for veterans may appear."
 msgstr ""
 
 #: ../../source/docs/mission-statement.rst:18
@@ -95,4 +95,3 @@ msgid ""
 "guide or instruction manual. Thus, while |gm0| has plenty of advice, we "
 "do not have specific steps included. Good luck, and have fun in FTC!"
 msgstr ""
-

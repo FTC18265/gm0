@@ -5,23 +5,23 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-03 23:20-0600\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-22 21:27-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../source/docs/appendix/vendor-list.rst:4
 msgid "Vendor List"
-msgstr ""
+msgstr "供应商列表"
 
 #: ../../source/docs/appendix/vendor-list.rst:6
 msgid "`Actuonix <https://www.actuonix.com/>`_"
@@ -29,8 +29,8 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:8
 msgid ""
-"Actuonix sells linear actuators and linear motion components. Expensive, "
-"but robust. Teams can apply for a *FIRST*\\ |reg| sponsorship."
+"Actuonix sells linear actuators and linear motion components. Expensive, but "
+"robust. Teams can apply for a *FIRST*\\ |reg| sponsorship."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:9
@@ -39,14 +39,14 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:11
 msgid ""
-"AndyMark sells the official game field and game sets, as well as "
-"individual game parts and the SoftTiles foam tiles."
+"AndyMark sells the official game field and game sets, as well as individual "
+"game parts and the SoftTiles foam tiles."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:12
 msgid ""
-"AndyMark also sells NeveRest and NeveRest Sport motors, TileRunner, "
-"compliant, stealth, and mecanum wheels, as well as many other items."
+"AndyMark also sells NeveRest and NeveRest Sport motors, TileRunner, compliant, "
+"stealth, and mecanum wheels, as well as many other items."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:13
@@ -88,10 +88,9 @@ msgstr ""
 #: ../../source/docs/appendix/vendor-list.rst:27
 msgid ""
 "goBILDA sells its own build system, complete with Yellow Jacket motors, "
-"channel, motion components, and battery. Note that the cheapest batteries"
-" are found here, the MATRIX 12V Batteries are $39.99, with the team "
-"discount they are $29.99, nearly half the price of the $50 batteries sold"
-" elsewhere."
+"channel, motion components, and battery. Note that the cheapest batteries are "
+"found here, the MATRIX 12V Batteries are $39.99, with the team discount they "
+"are $29.99, nearly half the price of the $50 batteries sold elsewhere."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:28
@@ -104,17 +103,16 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:31
 msgid ""
-"McMaster-Carr sells hardware and raw materials in bulk quantities. They "
-"stock nearly every type of bolt, screw, and nut possible, as well as "
-"washers, bearings, springs, etc. Purchase from them for bulk quantities "
-"of hardware, as well as the times you need a very obscure part."
+"McMaster-Carr sells hardware and raw materials in bulk quantities. They stock "
+"nearly every type of bolt, screw, and nut possible, as well as washers, "
+"bearings, springs, etc. Purchase from them for bulk quantities of hardware, as "
+"well as the times you need a very obscure part."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:32
 msgid ""
-"Don't be turned off by the hidden shipping. Generally, McMaster-Carr's "
-"shipping is around the same price as other vendors, and shipping is "
-"usually next-day."
+"Don't be turned off by the hidden shipping. Generally, McMaster-Carr's shipping "
+"is around the same price as other vendors, and shipping is usually next-day."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:33
@@ -123,17 +121,17 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:35
 msgid ""
-"MiSUMI is a Japanese company specializing in industrial and manufacturing"
-" components. They sell bulk 15mm anodized :term:`extrusion <Extrusion>` "
-"similar to the REV Robotics :term:`extrusion <Extrusion>`. The 15mm "
-":term:`extrusion <Extrusion>` can be cut to length as well."
+"MiSUMI is a Japanese company specializing in industrial and manufacturing "
+"components. They sell bulk 15mm anodized :term:`extrusion <Extrusion>` similar "
+"to the REV Robotics :term:`extrusion <Extrusion>`. The 15mm :term:`extrusion "
+"<Extrusion>` can be cut to length as well."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:36
 msgid ""
 "MiSUMI also sells aluminum drawer slides that are popular for linear "
-"extensions. They are available in different lengths, but the most common "
-"is 400mm."
+"extensions. They are available in different lengths, but the most common is "
+"400mm."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:37
@@ -150,8 +148,8 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:42
 msgid ""
-"Pitsco sells the Tetrix kit with channels, TorqueNado motors, and their "
-"own motion system."
+"Pitsco sells the Tetrix kit with channels, TorqueNado motors, and their own "
+"motion system."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:43
@@ -161,9 +159,9 @@ msgstr ""
 #: ../../source/docs/appendix/vendor-list.rst:45
 msgid ""
 "REV Robotics sells the REV build system, which is an :term:`extrusion "
-"<Extrusion>`-based ecosystem complete with motors (HD Hex, HD Planetary, "
-"Core HEX), :term:`extrusion <Extrusion>`, :term:`servos <Servo>` (Smart "
-"Robot Servo), brackets, and battery."
+"<Extrusion>`-based ecosystem complete with motors (HD Hex, HD Planetary, Core "
+"HEX), :term:`extrusion <Extrusion>`, :term:`servos <Servo>` (Smart Robot "
+"Servo), brackets, and battery."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:46
@@ -172,14 +170,14 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:48
 msgid ""
-"REV offers various sensors (Magnetic Limit Switch, Color Sensor, Touch "
-"Sensor, Distance Sensor, Potentiometer, etc.)"
+"REV offers various sensors (Magnetic Limit Switch, Color Sensor, Touch Sensor, "
+"Distance Sensor, Potentiometer, etc.)"
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:49
 msgid ""
-"Additionally, electronic components such as the Servo Power Module, "
-"SPARKmini, or Blinkin may be purchased."
+"Additionally, electronic components such as the Servo Power Module, SPARKmini, "
+"or Blinkin may be purchased."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:50
@@ -188,21 +186,20 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:52
 msgid ""
-"Servocity sells the channel-based Actobotics build system with robust "
-"motion and structure. They also offer the Servoblock, a highly "
-"recommended part."
+"Servocity sells the channel-based Actobotics build system with robust motion "
+"and structure. They also offer the Servoblock, a highly recommended part."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:53
 msgid ""
-"Servocity sells X-rail :term:`extrusion <Extrusion>`, lead screw actuator"
-" kits, and linear extension kits."
+"Servocity sells X-rail :term:`extrusion <Extrusion>`, lead screw actuator kits, "
+"and linear extension kits."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:54
 msgid ""
-"Servocity sells a wide range of :term:`servos <Servo>`, from Hitec to "
-"Futaba, at all price points."
+"Servocity sells a wide range of :term:`servos <Servo>`, from Hitec to Futaba, "
+"at all price points."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:55
@@ -215,21 +212,20 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:58
 msgid ""
-"VEXPro sells parts angled toward FRC\\ |reg| use, but many of their "
-"parts, such as :term:`Thunderhex`, can be made compatible with FTC "
-"robots."
+"VEXPro sells parts angled toward FRC\\ |reg| use, but many of their parts, such "
+"as :term:`Thunderhex`, can be made compatible with FTC robots."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:59
 msgid ""
-"VEX sells the 393 Motor, as well as the Motor Controller 29 in order for "
-"it to adapt to the Expansion Hub."
+"VEX sells the 393 Motor, as well as the Motor Controller 29 in order for it to "
+"adapt to the Expansion Hub."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:60
 msgid ""
-"VEX offers the VersaPlanetary motor which allows teams to customize a "
-"specific gear ratio for their needs."
+"VEX offers the VersaPlanetary motor which allows teams to customize a specific "
+"gear ratio for their needs."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:61
@@ -238,9 +234,8 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-list.rst:63
 msgid ""
-"Also known as WCP, West Coast Products sells products exclusively aimed "
-"toward FRC use. However, much like VEXPro, many of their parts can be "
-"used in FTC, especially in custom robots. In fact, VEXPro and West Coast "
-"Products sell many of the same parts."
+"Also known as WCP, West Coast Products sells products exclusively aimed toward "
+"FRC use. However, much like VEXPro, many of their parts can be used in FTC, "
+"especially in custom robots. In fact, VEXPro and West Coast Products sell many "
+"of the same parts."
 msgstr ""
-

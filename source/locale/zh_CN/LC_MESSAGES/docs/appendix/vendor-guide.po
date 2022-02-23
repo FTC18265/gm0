@@ -5,23 +5,23 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-03 23:20-0600\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-22 21:27-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../source/docs/appendix/vendor-guide.rst:2
 msgid "Vendor Guide"
-msgstr ""
+msgstr "供应商指南"
 
 #: ../../source/docs/appendix/vendor-guide.rst:5
 msgid "Vendor Identification"
@@ -30,11 +30,10 @@ msgstr ""
 #: ../../source/docs/appendix/vendor-guide.rst:7
 msgid ""
 "When you read some Bill of Materials (BOMs) or part numbers that are "
-"references in this guide, it might be confusing to find what vendor the "
-"part you need comes from. The obvious thing to do is Google the part "
-"number, and generally it can identify what you want and where it comes "
-"from. But if that fails, here are some quick tips to identify the vendor "
-"selling what you need."
+"references in this guide, it might be confusing to find what vendor the part "
+"you need comes from. The obvious thing to do is Google the part number, and "
+"generally it can identify what you want and where it comes from. But if that "
+"fails, here are some quick tips to identify the vendor selling what you need."
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:10
@@ -67,8 +66,7 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:21
 msgid ""
-"Actuonix: 3-4 digit SKU, alphanumeric, in the form of XX00 or X00 (i.e. "
-"PQ12)"
+"Actuonix: 3-4 digit SKU, alphanumeric, in the form of XX00 or X00 (i.e. PQ12)"
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:22
@@ -85,8 +83,8 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:24
 msgid ""
-"Servocity/Actobotics: 6 digit SKU, numerical, in the form of 000000 (i.e."
-" 615190)"
+"Servocity/Actobotics: 6 digit SKU, numerical, in the form of 000000 (i.e. "
+"615190)"
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:27
@@ -159,8 +157,8 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:51
 msgid ""
-"Futaba (Futaba servos are widely used in RC and hobby aircraft); 25 tooth"
-" spline"
+"Futaba (Futaba servos are widely used in RC and hobby aircraft); 25 tooth "
+"spline"
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:52
@@ -213,8 +211,8 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:70
 msgid ""
-"Actobotics :term:`channel <Channel>`, mini :term:`channel <Channel>`, "
-"X-rail :term:`extrusion <Extrusion>`"
+"Actobotics :term:`channel <Channel>`, mini :term:`channel <Channel>`, X-"
+"rail :term:`extrusion <Extrusion>`"
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:71
@@ -267,14 +265,14 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:87
 msgid ""
-"AndyMark traction, :term:`compliant <Compliant Wheel>`, :term:`mecanum "
-"wheel <Mecanum Wheel>`"
+"AndyMark traction, :term:`compliant <Compliant Wheel>`, :term:`mecanum wheel "
+"<Mecanum Wheel>`"
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:88
 msgid ""
-"REV grip, traction, :term:`omni <Omni Wheel>`, :term:`mecanum wheel "
-"<Mecanum Wheel>`"
+"REV grip, traction, :term:`omni <Omni Wheel>`, :term:`mecanum wheel <Mecanum "
+"Wheel>`"
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:89
@@ -283,8 +281,8 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:90
 msgid ""
-"goBILDA traction, :term:`omni <Omni Wheel>`, :term:`mecanum wheel "
-"<Mecanum Wheel>`"
+"goBILDA traction, :term:`omni <Omni Wheel>`, :term:`mecanum wheel <Mecanum "
+"Wheel>`"
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:91
@@ -293,8 +291,8 @@ msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:92
 msgid ""
-"TETRIX traction, :term:`omni <Omni Wheel>`, :term:`mecanum wheel <Mecanum"
-" Wheel>`"
+"TETRIX traction, :term:`omni <Omni Wheel>`, :term:`mecanum wheel <Mecanum "
+"Wheel>`"
 msgstr ""
 
 #: ../../source/docs/appendix/vendor-guide.rst:93
@@ -340,4 +338,3 @@ msgstr ""
 #: ../../source/docs/appendix/vendor-guide.rst:107
 msgid "Igus"
 msgstr ""
-
