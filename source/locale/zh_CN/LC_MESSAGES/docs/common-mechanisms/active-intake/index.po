@@ -5,23 +5,23 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-03 23:20-0600\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-23 21:46-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../source/docs/common-mechanisms/active-intake/index.rst:4
 msgid "Active Intake"
-msgstr ""
+msgstr "灵活的摄取器"
 
 #: ../../source/docs/common-mechanisms/active-intake/index.rst:6
 msgid ""
@@ -82,13 +82,12 @@ msgstr ""
 
 #: ../../source/docs/common-mechanisms/active-intake/index.rst:26
 msgid ""
-"When this robot drives up to a ball, it barely has to point itself at the"
-" ball before the ball is instantly locked in between the two rows of "
+"When this robot drives up to a ball, it barely has to point itself at "
+"the ball before the ball is instantly locked in between the two rows of "
 "wheels. What makes it so effective is the immense amount of testing that "
-"went into its design. The team tried a number of intake shapes, initially"
-" building with wood and rubber bands, and recorded which shapes were most"
-" effective. By testing their intake design out before competition, they "
-"didn’t have to guess whether it would work as intended: they put it on "
-"the field with confidence."
+"went into its design. The team tried a number of intake shapes, "
+"initially building with wood and rubber bands, and recorded which shapes "
+"were most effective. By testing their intake design out before "
+"competition, they didn’t have to guess whether it would work as "
+"intended: they put it on the field with confidence."
 msgstr ""
-

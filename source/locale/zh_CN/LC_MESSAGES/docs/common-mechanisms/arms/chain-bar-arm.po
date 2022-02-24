@@ -5,23 +5,24 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-03 23:20-0600\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-23 22:31-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../source/docs/common-mechanisms/arms/chain-bar-arm.rst:2
 msgid "Chain Bar Arm/4-Bar Linkage"
-msgstr ""
+msgstr "链杆臂/4连杆"
 
 #: ../../source/docs/common-mechanisms/arms/chain-bar-arm.rst:4
 msgid ""
@@ -29,28 +30,27 @@ msgid ""
 "hard-bolted to a bar. The purpose of a chain bar arm is to make an "
 "extension such that the outer bar always keeps the same angle in "
 "reference to the ground. This means that if the outer bar is parallel to "
-"the ground in the stow position, it will remain parallel to the ground at"
-" all points in the extension of the arm. This is especially important if,"
-" for example, you have a claw to pick up an object, and you want the claw"
-" to remain parallel to the ground."
+"the ground in the stow position, it will remain parallel to the ground "
+"at all points in the extension of the arm. This is especially important "
+"if, for example, you have a claw to pick up an object, and you want the "
+"claw to remain parallel to the ground."
 msgstr ""
 
 #: ../../source/docs/common-mechanisms/arms/chain-bar-arm.rst:6
 msgid ""
-"If your sprockets are of different lengths, you can mechanically rotate a"
-" between two desired angles without needing to expend a servo slot."
+"If your sprockets are of different lengths, you can mechanically rotate "
+"a between two desired angles without needing to expend a servo slot."
 msgstr ""
 
 #: ../../source/docs/common-mechanisms/arms/chain-bar-arm.rst:8
 msgid ""
 "Chain bar arms can provide the >24\" optimal extension needed to be "
-"competitive in games, but it also has disadvantages. It is much harder to"
-" control than a linear slide, since a chain bar arm has momentum. Thus, "
-"it is very difficult to be precise with a chain bar when stopping the arm"
-" quickly."
+"competitive in games, but it also has disadvantages. It is much harder "
+"to control than a linear slide, since a chain bar arm has momentum. "
+"Thus, it is very difficult to be precise with a chain bar when stopping "
+"the arm quickly."
 msgstr ""
 
 #: ../../source/docs/common-mechanisms/arms/chain-bar-arm.rst:16
 msgid "8103 Null Robotics, Relic Recovery"
 msgstr ""
-

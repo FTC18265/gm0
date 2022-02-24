@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-03 23:20-0600\n"
-"PO-Revision-Date: 2022-02-22 21:29-0600\n"
+"PO-Revision-Date: 2022-02-22 21:32-0600\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../source/docs/awards/notebook.rst:2
 msgid "Notebook Designs and Decisions"
-msgstr "记录簿"
+msgstr "记录簿的设计与选择"
 
 #: ../../source/docs/awards/notebook.rst:4
 msgid ""
