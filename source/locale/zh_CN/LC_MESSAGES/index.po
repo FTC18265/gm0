@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-03 23:20-0600\n"
-"PO-Revision-Date: 2022-02-22 21:20-0600\n"
+"PO-Revision-Date: 2022-02-24 18:26-0600\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -22,11 +22,11 @@ msgstr ""
 
 #: ../../source/index.rst:99
 msgid "Game Manual 0 Table of Contents"
-msgstr "游戏手册0 目录"
+msgstr "游戏手册零 目录"
 
 #: ../../source/index.rst:2
 msgid "Index"
-msgstr ""
+msgstr "目录"
 
 #: ../../source/index.rst:13
 msgid "Start Here"
