@@ -5,30 +5,30 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Game Manual 0 0.1.1-269-g028ca04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-03 23:20-0600\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-23 22:54-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../source/docs/common-mechanisms/linear-motion-guide/drawer-slides.rst:2
 msgid "Drawer Slides"
-msgstr ""
+msgstr "抽屉式滑轨"
 
 #: ../../source/docs/common-mechanisms/linear-motion-guide/drawer-slides.rst:4
 msgid ""
-"You’ve *definitely* used a drawer slide before - at least two of them are"
-" mounted to almost any drawer that you’ve opened. Teams use these drawer "
-"slides for linear motion, often stacking them using 3D printed spacers to"
-" achieve plenty of extension."
+"You’ve *definitely* used a drawer slide before - at least two of them "
+"are mounted to almost any drawer that you’ve opened. Teams use these "
+"drawer slides for linear motion, often stacking them using 3D printed "
+"spacers to achieve plenty of extension."
 msgstr ""
 
 #: ../../source/docs/common-mechanisms/linear-motion-guide/drawer-slides.rst:6
@@ -75,11 +75,11 @@ msgstr ""
 msgid ""
 "Available from your local hardware store, steel slides aren’t a bad "
 "option for FTC teams, as they are heavy-duty enough for most use cases. "
-"However, these kinds of slides are much heavier than other aluminum slide"
-" options. Furthermore, these slides are not designed to have bearings or "
-"a second slide attached to them, because they only contain mounting for a"
-" standard drawer. Thus, these slides require drilling holes in order to "
-"mount the necessary parts for linear extension."
+"However, these kinds of slides are much heavier than other aluminum "
+"slide options. Furthermore, these slides are not designed to have "
+"bearings or a second slide attached to them, because they only contain "
+"mounting for a standard drawer. Thus, these slides require drilling "
+"holes in order to mount the necessary parts for linear extension."
 msgstr ""
 
 #: ../../source/docs/common-mechanisms/linear-motion-guide/drawer-slides.rst:22
@@ -125,11 +125,11 @@ msgstr ""
 
 #: ../../source/docs/common-mechanisms/linear-motion-guide/drawer-slides.rst:38
 msgid ""
-"The `MiSUMI slide rails <https://us.misumi-"
-"ec.com/vona2/detail/110300072130/?HissuCode=SAR240>`_ are preferred by "
-"many top-tier teams because they are sturdy, very reliable, and "
-"ridiculously smooth due to the ball bearing system. **MiSUMI slides are "
-"able to withstand a significant amount of load with little flex**."
+"The `MiSUMI slide rails <https://us.misumi-ec.com/vona2/"
+"detail/110300072130/?HissuCode=SAR240>`_ are preferred by many top-tier "
+"teams because they are sturdy, very reliable, and ridiculously smooth "
+"due to the ball bearing system. **MiSUMI slides are able to withstand a "
+"significant amount of load with little flex**."
 msgstr ""
 
 #: ../../source/docs/common-mechanisms/linear-motion-guide/drawer-slides.rst:40
@@ -172,10 +172,10 @@ msgstr ""
 
 #: ../../source/docs/common-mechanisms/linear-motion-guide/drawer-slides.rst:51
 msgid ""
-"Left: cross section of a 3 stage lift using 3D printed inserts (blue) and"
-" SAR2 slides; right: cross section of a 2 stage lift using a 3D printed "
-"insert and SAR3 slides. The left approach is also used for Long Robotics "
-"slides (discussed below)."
+"Left: cross section of a 3 stage lift using 3D printed inserts (blue) "
+"and SAR2 slides; right: cross section of a 2 stage lift using a 3D "
+"printed insert and SAR3 slides. The left approach is also used for Long "
+"Robotics slides (discussed below)."
 msgstr ""
 
 #: ../../source/docs/common-mechanisms/linear-motion-guide/drawer-slides.rst:53
@@ -232,8 +232,8 @@ msgstr ""
 #: ../../source/docs/common-mechanisms/linear-motion-guide/drawer-slides.rst:78
 msgid ""
 "The `Long Robotics <https://longrobotics.com/>`_ slides are also used by "
-"top-tier teams because they are sturdy, reliable, and almost as smooth as"
-" MiSUMI slides due to the ball bearing system."
+"top-tier teams because they are sturdy, reliable, and almost as smooth "
+"as MiSUMI slides due to the ball bearing system."
 msgstr ""
 
 #: ../../source/docs/common-mechanisms/linear-motion-guide/drawer-slides.rst:80
@@ -247,21 +247,19 @@ msgstr ""
 msgid ""
 "The manufacturer website has CAD files for 3D printed inserts that go "
 "between the slides, which V-bearings are mounted to. V-bearings are "
-"`available from Long Robotics "
-"<https://longrobotics.com/product/3x12x4mm-v-bearing-10-pack/>`_. To "
-"attach slides, one will need to purchase **countersunk M4 screws**, which"
-" are `also available from Long Robotics "
-"<https://longrobotics.com/product/6mm-d-low-head-"
-"10mm-m4-screw-10-pack-t10-torx-drive/>`_."
+"`available from Long Robotics <https://longrobotics.com/product/3x12x4mm-"
+"v-bearing-10-pack/>`_. To attach slides, one will need to purchase "
+"**countersunk M4 screws**, which are `also available from Long Robotics "
+"<https://longrobotics.com/product/6mm-d-low-head-10mm-m4-screw-10-pack-"
+"t10-torx-drive/>`_."
 msgstr ""
 
 #: ../../source/docs/common-mechanisms/linear-motion-guide/drawer-slides.rst:84
 msgid ""
-"These are available in both a `300 mm rail length option "
-"<https://longrobotics.com/product/lrs-300-aluminum-slide-300mm-black-"
-"anodized/>`_ and `400 mm rail length option "
-"<https://longrobotics.com/product/lrs-400-aluminum-slide-400mm-black-"
-"anodized/>`_."
+"These are available in both a `300 mm rail length option <https://"
+"longrobotics.com/product/lrs-300-aluminum-slide-300mm-black-anodized/>`_ "
+"and `400 mm rail length option <https://longrobotics.com/product/lrs-400-"
+"aluminum-slide-400mm-black-anodized/>`_."
 msgstr ""
 
 #: ../../source/docs/common-mechanisms/linear-motion-guide/drawer-slides.rst:89
@@ -300,8 +298,8 @@ msgstr ""
 msgid ""
 "Igus slides used to be a popular option among top teams for linear "
 "extension back in the earlier days of FTC. However, with the arrival of "
-"MiSUMI slides, they have decreased in popularity due to their tendency to"
-" bind. However, if your team is looking for a high-load or special use "
+"MiSUMI slides, they have decreased in popularity due to their tendency "
+"to bind. However, if your team is looking for a high-load or special use "
 "case, by all means explore this option."
 msgstr ""
 
@@ -316,4 +314,3 @@ msgstr ""
 #: ../../source/docs/common-mechanisms/linear-motion-guide/drawer-slides.rst:119
 msgid "5143 Xcentrics, Skystone, Misumi SAR2"
 msgstr ""
-
